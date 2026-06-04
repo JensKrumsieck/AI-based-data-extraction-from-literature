@@ -1,0 +1,106 @@
+{
+  "cropYear": [
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_1987",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "3",
+          "experimental_design": "block randomized Complete",
+          "main_experiment_factor": "Nitrogen fertilization",
+          "experimental_factor_comb": "Nitrogen fertilization",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_1988",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "3",
+          "experimental_design": "block randomized Complete",
+          "main_experiment_factor": "Nitrogen fertilization",
+          "experimental_factor_comb": "Nitrogen fertilization",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_1990",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "4",
+          "number_of_treatments": "10",
+          "experimental_design": "species; cultivars) (plot: Split-plot subplot:",
+          "main_experiment_factor": "Species; cultivars",
+          "experimental_factor_comb": "Species; cultivars",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_1991",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "4",
+          "number_of_treatments": "10",
+          "experimental_design": "species; cultivars) (plot: Split-plot subplot:",
+          "main_experiment_factor": "Species; cultivars",
+          "experimental_factor_comb": "Species; cultivars",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_1997",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "6",
+          "experimental_design": "species; cultivars) (plot: Split-plot subplot:",
+          "main_experiment_factor": "Species; cultivars",
+          "experimental_factor_comb": "Species; cultivars",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Bechini2005_2002",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "18",
+          "experimental_design": "fertilization; fertilization; cultivars) top-dressing preseeding esplit-plot sub-subplot: subplot: (plot: Split",
+          "main_experiment_factor": "Top-dressing fertilization. Pre-seeding fertilization. 1 ha 100a 80b (0,9",
+          "experimental_factor_comb": "Top-dressing fertilization. Pre-seeding fertilization. 1 ha 100a 80b (0,9",
+          "experiment_duration": 1
+        }
+      ]
+    }
+  ]
+}

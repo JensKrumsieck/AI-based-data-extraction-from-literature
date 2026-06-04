@@ -1,0 +1,76 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Tian2017_2013",
+          "crop_ident_ICASA": "GOT",
+          "cultivar_name": "Lu Yanmian 28",
+          "crop_intended_use": "L",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        },
+        {
+          "experiment_ID": "Tian2017_2013",
+          "crop_ident_ICASA": "GAR",
+          "cultivar_name": "Jinxiang White skin",
+          "crop_intended_use": "B",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Tian2017_2014",
+          "crop_ident_ICASA": "GOT",
+          "cultivar_name": "Lu Yanmian 28",
+          "crop_intended_use": "L",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        },
+        {
+          "experiment_ID": "Tian2017_2014",
+          "crop_ident_ICASA": "GAR",
+          "cultivar_name": "Jinxiang White skin",
+          "crop_intended_use": "B",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Tian2017_2015",
+          "crop_ident_ICASA": "GOT",
+          "cultivar_name": "Lu Yanmian 28",
+          "crop_intended_use": "L",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        },
+        {
+          "experiment_ID": "Tian2017_2015",
+          "crop_ident_ICASA": "GAR",
+          "cultivar_name": "Jinxiang White skin",
+          "crop_intended_use": "B",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Tian2017_2016",
+          "crop_ident_ICASA": "GOT",
+          "cultivar_name": "Lu Yanmian 28",
+          "crop_intended_use": "L",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        },
+        {
+          "experiment_ID": "Tian2017_2016",
+          "crop_ident_ICASA": "GAR",
+          "cultivar_name": "Jinxiang White skin",
+          "crop_intended_use": "B",
+          "cultivar_notes": "They are currently major cultivars widely cultivated under the cotton-garlic intercropping system in North China plain."
+        }
+      ]
+    }
+  ]
+}

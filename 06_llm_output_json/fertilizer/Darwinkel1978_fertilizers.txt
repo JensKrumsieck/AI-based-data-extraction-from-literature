@@ -1,0 +1,19 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Darwinkel1978_1976",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

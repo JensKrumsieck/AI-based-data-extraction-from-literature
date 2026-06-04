@@ -1,0 +1,96 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Kherif2022_2019",
+          "planting_level_name": "durumwheatmonocrop",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 300,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 17,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 300 seeds per m2 for sole durum wheat"
+        },
+        {
+          "experiment_ID": "Kherif2022_2019",
+          "planting_level_name": "chickpeamonocrop",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 30,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 34,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 30 seeds per m2 for sole chickpea"
+        },
+        {
+          "experiment_ID": "Kherif2022_2019",
+          "planting_level_name": "durumwheatchickpeaintercropping",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 150,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 34,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 150 and 18 seeds for intercropped durum wheat and chickpea, respectively"
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Kherif2022_2020",
+          "planting_level_name": "durumwheatmonocrop",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 300,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 34,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 300 seeds per m2 for sole durum wheat"
+        },
+        {
+          "experiment_ID": "Kherif2022_2020",
+          "planting_level_name": "chickpeamonocrop",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 30,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 34,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 30 seeds per m2 for sole chickpea"
+        },
+        {
+          "experiment_ID": "Kherif2022_2020",
+          "planting_level_name": "durumwheatchickpeaintercropping",
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": 150,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 34,
+          "planting_depth": {},
+          "planting_notes": "Sowing density 150 and 18 seeds for intercropped durum wheat and chickpea, respectively"
+        }
+      ]
+    }
+  ]
+}

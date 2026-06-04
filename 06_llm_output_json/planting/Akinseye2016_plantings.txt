@@ -1,0 +1,50 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "planting_level_name": "PD1",
+          "planting_date": "2013-06-14",
+          "emergence_date": {},
+          "plant_pop_at_planting": 67000,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": 20,
+          "row_spacing": 75,
+          "planting_depth": {},
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "planting_level_name": "PD2",
+          "planting_date": "2013-07-09",
+          "emergence_date": {},
+          "plant_pop_at_planting": 67000,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": 20,
+          "row_spacing": 75,
+          "planting_depth": {},
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "planting_level_name": "PD3",
+          "planting_date": "2013-08-05",
+          "emergence_date": {},
+          "plant_pop_at_planting": 67000,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": 20,
+          "row_spacing": 75,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

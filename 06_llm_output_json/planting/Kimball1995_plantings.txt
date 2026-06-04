@@ -1,0 +1,22 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "planting_level_name": {},
+          "planting_date": "1992-12-15",
+          "emergence_date": "1993-01-01",
+          "plant_pop_at_planting": 130,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 25,
+          "planting_depth": {},
+          "planting_notes": "The wheat was planted in E-W rows"
+        }
+      ]
+    }
+  ]
+}

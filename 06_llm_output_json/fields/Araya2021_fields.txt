@@ -1,0 +1,74 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2020_2004_Mekelle",
+          "field_name": "Mekelle",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country {},
+          "field_latitude": 13.05,
+          "field_longitude": 39.53,
+          "field_elevation": 2210
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2020_2008_Mekelle",
+          "field_name": "Mekelle",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country {},
+          "field_latitude": 13.05,
+          "field_longitude": 39.53,
+          "field_elevation": 2210
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2020_2009_Mekelle",
+          "field_name": "Mekelle",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country {},
+          "field_latitude": 13.05,
+          "field_longitude": 39.53,
+          "field_elevation": 2210
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2020_2010_Mekelle",
+          "field_name": "Mekelle",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country {},
+          "field_latitude": 13.05,
+          "field_longitude": 39.53,
+          "field_elevation": 2210
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2020_2010_Maychew",
+          "field_name": "Maychew",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country {},
+          "field_latitude": 12.78,
+          "field_longitude": 39.53,
+          "field_elevation": 2400
+        }
+      ]
+    }
+  ]
+}

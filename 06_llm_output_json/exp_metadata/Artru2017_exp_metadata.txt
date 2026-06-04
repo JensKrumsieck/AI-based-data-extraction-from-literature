@@ -1,0 +1,38 @@
+{
+  "cropYear": [
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Artru2017_2015",
+          "name_of_experiment": "experimental farm",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "3",
+          "experimental_design": "Three shade levels corresponding to three distinct types of daily shade dynamics",
+          "main_experiment_factor": "Shade type",
+          "experimental_factor_comb": "No shade (NS), Periodic shade (PS), Continuous shade (CS)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Artru2017_2016",
+          "name_of_experiment": "experimental farm",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "3",
+          "number_of_treatments": "3",
+          "experimental_design": "Three shade levels corresponding to three distinct types of daily shade dynamics",
+          "main_experiment_factor": "Shade type",
+          "experimental_factor_comb": "No shade (NS), Periodic shade (PS), Continuous shade (CS)",
+          "experiment_duration": 1
+        }
+      ]
+    }
+  ]
+}

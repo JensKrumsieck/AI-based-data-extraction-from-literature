@@ -1,0 +1,18 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Tribouillois2017_2012_Auzeville",
+          "field_name": "Auzeville",
+          "field_country": "France",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 43.53,
+          "field_longitude": 1.58,
+          "field_elevation": {}
+        }
+      ]
+    }
+  ]
+}

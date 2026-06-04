@@ -1,0 +1,40 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Burak2023_2020_CommonHart",
+          "planting_level_name": {},
+          "planting_date": "2020-09-14",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Burak2023_2020_Foxfield",
+          "planting_level_name": {},
+          "planting_date": "2020-10-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

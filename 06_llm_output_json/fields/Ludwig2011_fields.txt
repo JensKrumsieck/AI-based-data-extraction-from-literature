@@ -1,0 +1,60 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Ludwig2010_2007_Garte",
+          "field_name": "Garte",
+          "field_country": "Germany",
+          "field_sub_country": "Göttingen",
+          "field_sub_sub_country": {},
+          "field_latitude": 51.4875,
+          "field_longitude": 9.9359,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Ludwig2010_2007_HohesFeld",
+          "field_name": "HohesFeld",
+          "field_country": "Germany",
+          "field_sub_country": "Göttingen",
+          "field_sub_sub_country": {},
+          "field_latitude": 51.6206,
+          "field_longitude": 9.9419,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Ludwig2010_2008_Garte",
+          "field_name": "Garte",
+          "field_country": "Germany",
+          "field_sub_country": "Göttingen",
+          "field_sub_sub_country": {},
+          "field_latitude": 51.4875,
+          "field_longitude": 9.9359,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Ludwig2010_2008_HohesFeld",
+          "field_name": "HohesFeld",
+          "field_country": "Germany",
+          "field_sub_country": "Göttingen",
+          "field_sub_sub_country": {},
+          "field_latitude": 51.6206,
+          "field_longitude": 9.9419,
+          "field_elevation": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cropYear": [
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Kimball1995_1993",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": "4",
+          "number_of_treatments": "16",
+          "experimental_design": "Split-plot design with main plots assigned to atmospheric CO2 concentration and subplots to irrigation amount",
+          "main_experiment_factor": "Atmospheric CO2 concentration",
+          "experimental_factor_comb": "2 CO2 levels x 2 water levels",
+          "experiment_duration": 1
+        }
+      ]
+    }
+  ]
+}

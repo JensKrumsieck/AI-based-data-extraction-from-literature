@@ -1,0 +1,37 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "O'Leary2015_2007",
+          "crop_ident_ICASA": "WHT",
+          "cultivar_name": "Yitpi",
+          "crop_intended_use": "GR",
+          "cultivar_notes": "one popular local cultivar (cv. Yitpi)"
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "O'Leary2015_2008",
+          "crop_ident_ICASA": "WHT",
+          "cultivar_name": "Yitpi",
+          "crop_intended_use": "GR",
+          "cultivar_notes": "one popular local cultivar (cv. Yitpi)"
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "O'Leary2015_2009",
+          "crop_ident_ICASA": "WHT",
+          "cultivar_name": "Yitpi",
+          "crop_intended_use": "GR",
+          "cultivar_notes": "one popular local cultivar (cv. Yitpi)"
+        }
+      ]
+    }
+  ]
+}

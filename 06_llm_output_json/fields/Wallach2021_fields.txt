@@ -1,0 +1,284 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2010_Eradu",
+          "field_name": "Eradu",
+          "field_country": "Australia",
+          "field_sub_country": "West Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2010_LakeBolac",
+          "field_name": "LakeBolac",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2010_Minnipa",
+          "field_name": "Minnipa",
+          "field_country": "Australia",
+          "field_sub_country": "South Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2010_SpringRidge",
+          "field_name": "Spring Ridge",
+          "field_country": "Australia",
+          "field_sub_country": "New South Wales",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2010_Walpeup",
+          "field_name": "Walpeup",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2011_Eradu",
+          "field_name": "Eradu",
+          "field_country": "Australia",
+          "field_sub_country": "West Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2011_LakeBolac",
+          "field_name": "LakeBolac",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2011_Minnipa",
+          "field_name": "Minnipa",
+          "field_country": "Australia",
+          "field_sub_country": "South Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2011_SpringRidge",
+          "field_name": "Spring Ridge",
+          "field_country": "Australia",
+          "field_sub_country": "New South Wales",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2011_Walpeup",
+          "field_name": "Walpeup",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Bungunya",
+          "field_name": "Bungunya",
+          "field_country": "Australia",
+          "field_sub_country": "Queensland",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Corrigin",
+          "field_name": "Corrigin",
+          "field_country": "Australia",
+          "field_sub_country": "West Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Eradu",
+          "field_name": "Eradu",
+          "field_country": "Australia",
+          "field_sub_country": "West Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_LakeBolac",
+          "field_name": "LakeBolac",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Minnipa",
+          "field_name": "Minnipa",
+          "field_country": "Australia",
+          "field_sub_country": "South Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Nangwee",
+          "field_name": "Nangwee",
+          "field_country": "Australia",
+          "field_sub_country": "Queensland",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_SpringRidge",
+          "field_name": "Spring Ridge",
+          "field_country": "Australia",
+          "field_sub_country": "New South Wales",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Temora",
+          "field_name": "Temora",
+          "field_country": "Australia",
+          "field_sub_country": "New South Wales",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Turretfield",
+          "field_name": "Turretfield",
+          "field_country": "Australia",
+          "field_sub_country": "South Australia",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Wallach2021_2012_Walpeup",
+          "field_name": "Walpeup",
+          "field_country": "Australia",
+          "field_sub_country": "Victoria",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    }
+  ]
+}
