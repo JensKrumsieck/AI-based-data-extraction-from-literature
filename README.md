@@ -1,2 +1,2 @@
-# Bridging-literature-and-model
-Bridging literature and models: a workflow for harmonizing agricultural datasets for simulation model using AI
+# AI-based data extraction from literature for crop modelling
+AI-based data extraction from literature for crop modelling
