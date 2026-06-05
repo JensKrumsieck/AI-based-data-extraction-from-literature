@@ -1,0 +1,701 @@
+{
+  "cropYear": [
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2003_Montepaldi",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "2",
+          "experimental_design": "Two cropping systems are compared: a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2004_Montepaldi",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "2",
+          "experimental_design": "Two cropping systems are compared: a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2005_Montepaldi",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "2",
+          "experimental_design": "Two cropping systems are compared: a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2006_Montepaldi",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "2",
+          "experimental_design": "Two cropping systems are compared: a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2007_Montepaldi",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "2",
+          "experimental_design": "Two cropping systems are compared: a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "a conventional more intensive in cereals (Conv.), and an organic crop rotation including clover and green manures (Org.)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2008_Vaernes",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "One treatment with mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover) were investigated",
+          "main_experiment_factor": "fertilizer type",
+          "experimental_factor_comb": "mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "main_experiment_factor": "cropping systems",
+          "experimental_factor_comb": "Three main cropping systems for cereal production were represented (O2 and O4 organic, C4 conventional), differing with regard to leguminous crops in the rotation, use of catch crops (CC), and application of animal manure or inorganic fertilizer (M)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2009_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2009_Vaernes",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "One treatment with mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover) were investigated",
+          "main_experiment_factor": "fertilizer type",
+          "experimental_factor_comb": "mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2010_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2010_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2011_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2011_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2011_Vaernes",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "One treatment with mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover) were investigated",
+          "main_experiment_factor": "fertilizer type",
+          "experimental_factor_comb": "mineral fertilizer as a control (only 80 kg N ha-1 ) (I) and four organic treatments combining the application of herbage-based digestate and grass-clover preceding spring barley (0 M-D, digestate and grass-clover pre-crop; D, digestate with oats as a pre-crop; 0 M, no digestate and grass-clover pre-crop; and 3 M no digestate with mulching of grass-clover)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2012_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2012_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2013_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2013_Osiny",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "5",
+          "experimental_design": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "main_experiment_factor": "rotation types",
+          "experimental_factor_comb": "five different rotation types and associated management: organic, integrated, conventional intensive, conventional extensive and monoculture of winter wheat",
+          "experiment_duration": 1
+        }
+      ]
+    },
+    {
+      "EXP_METADATA": [
+        {
+          "experiment_ID": "Doltra2019_2014_Frick",
+          "name_of_experiment": "field experiment",
+          "experiment_type": "ET001",
+          "management_type": "MT001",
+          "objectives_of_study": {},
+          "number_of_replicates": {},
+          "number_of_treatments": "4",
+          "experimental_design": "The treatments differ in tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "main_experiment_factor": "tillage intensity and fertilization system",
+          "experimental_factor_comb": "tillage intensity (CT, conventional tillage at 15–18 cm, and RT, reduced tillage at 7–10 cm of depth) and fertilization system (S, cattle slurry, and MC, cattle manure compost in addition to reduced amounts of cattle slurry)",
+          "experiment_duration": 1
+        }
+      ]
+    }
+  ]
+}

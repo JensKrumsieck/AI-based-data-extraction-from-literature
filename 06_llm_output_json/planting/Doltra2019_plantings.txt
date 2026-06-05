@@ -1,0 +1,904 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2001_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2002_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2002_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2003_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2003_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2003_Montepaldi",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2003_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2004_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2004_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2004_Montepaldi",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2004_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2005_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2005_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2005_Montepaldi",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2005_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2006_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2006_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2006_Grado",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2006_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2006_Villaviciosa",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2007_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2007_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2007_Montepaldi",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2007_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2007_Villaviciosa",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2008_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2008_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2008_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Grado",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Villaviciosa",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2010_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2010_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2010_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2010_Vaernes",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2011_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2011_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2011_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2011_Vaernes",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2012_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2012_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2012_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2013_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2013_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2013_Osiny",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2014_Foulum",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Doltra2018_2014_Frick",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

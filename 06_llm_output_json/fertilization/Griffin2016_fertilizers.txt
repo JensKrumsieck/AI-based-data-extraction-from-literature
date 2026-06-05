@@ -1,0 +1,152 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Griffin2016_2012",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "82.7",
+          "N_in_applied_fertilizer": "27.6",
+          "phosphorus_applied_fert": "36.2",
+          "fertilizer_K_applied": 17.2,
+          "fertilizer_applic_notes": "starter fertilizer was applied before planting each season"
+        },
+        {
+          "experiment_ID": "Griffin2016_2012",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "134.5",
+          "N_in_applied_fertilizer": "134.5",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "three weeks after transplanting"
+        },
+        {
+          "experiment_ID": "Griffin2016_2012",
+          "fertiliz_app_name": "CP",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "500.3",
+          "N_in_applied_fertilizer": "225.4",
+          "phosphorus_applied_fert": "119.5",
+          "fertilizer_K_applied": 155.4,
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Griffin2016_2013",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "82.7",
+          "N_in_applied_fertilizer": "27.6",
+          "phosphorus_applied_fert": "36.2",
+          "fertilizer_K_applied": 17.2,
+          "fertilizer_applic_notes": "starter fertilizer was applied before planting each season"
+        },
+        {
+          "experiment_ID": "Griffin2016_2013",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "207.4",
+          "N_in_applied_fertilizer": "207.4",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "at the four-leaf (V4) growth stage"
+        },
+        {
+          "experiment_ID": "Griffin2016_2013",
+          "fertiliz_app_name": "CP",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "500.3",
+          "N_in_applied_fertilizer": "225.4",
+          "phosphorus_applied_fert": "119.5",
+          "fertilizer_K_applied": 155.4,
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Griffin2016_2014",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "82.7",
+          "N_in_applied_fertilizer": "27.6",
+          "phosphorus_applied_fert": "36.2",
+          "fertilizer_K_applied": 17.2,
+          "fertilizer_applic_notes": "starter fertilizer was applied before planting each season"
+        },
+        {
+          "experiment_ID": "Griffin2016_2014",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "134.5",
+          "N_in_applied_fertilizer": "134.5",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "three weeks after transplanting"
+        },
+        {
+          "experiment_ID": "Griffin2016_2014",
+          "fertiliz_app_name": "CP",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "500.3",
+          "N_in_applied_fertilizer": "225.4",
+          "phosphorus_applied_fert": "119.5",
+          "fertilizer_K_applied": 155.4,
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Griffin2016_2015",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "82.7",
+          "N_in_applied_fertilizer": "27.6",
+          "phosphorus_applied_fert": "36.2",
+          "fertilizer_K_applied": 17.2,
+          "fertilizer_applic_notes": "starter fertilizer was applied before planting each season"
+        },
+        {
+          "experiment_ID": "Griffin2016_2015",
+          "fertiliz_app_name": "MF",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "207.4",
+          "N_in_applied_fertilizer": "207.4",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "at the four-leaf (V4) growth stage"
+        },
+        {
+          "experiment_ID": "Griffin2016_2015",
+          "fertiliz_app_name": "CP",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "500.3",
+          "N_in_applied_fertilizer": "225.4",
+          "phosphorus_applied_fert": "119.5",
+          "fertilizer_K_applied": 155.4,
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

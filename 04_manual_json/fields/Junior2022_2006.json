@@ -1,0 +1,14 @@
+{
+  "FIELDS": [
+    {
+      "experiment_ID": "Junior2022_2006",
+      "field_name": "Coruripe",
+      "field_country": "Brazil",
+      "field_sub_country": null,
+      "field_sub_sub_country": null,
+      "field_latitude": -10.12,
+      "field_longitude": -36.17,
+      "field_elevation": 16
+    }
+  ]
+}

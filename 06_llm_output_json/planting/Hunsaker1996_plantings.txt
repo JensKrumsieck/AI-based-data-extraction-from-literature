@@ -1,0 +1,40 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Hunsaker1996_1993",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Hunsaker1996_1994",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

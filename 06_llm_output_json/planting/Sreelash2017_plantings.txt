@@ -1,0 +1,58 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Sreelash2016_2011",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "Sowing dates (expressed as day of the year) vary between 110 to 124 for turmeric, between 130 to 150 for sunflower and sorghum"
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Sreelash2016_2012",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "Sowing dates (expressed as day of the year) vary between 110 to 124 for turmeric, between 130 to 150 for sunflower and sorghum"
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Sreelash2016_2013",
+          "planting_level_name": {},
+          "planting_date": {},
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "Sowing dates (expressed as day of the year) vary between 110 to 124 for turmeric, between 130 to 150 for sunflower and sorghum"
+        }
+      ]
+    }
+  ]
+}

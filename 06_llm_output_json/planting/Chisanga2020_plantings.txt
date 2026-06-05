@@ -1,0 +1,68 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Chisanga2020_2017_rainfed",
+          "planting_level_name": "PD1",
+          "planting_date": "2016-12-12",
+          "emergence_date": "2016-12-19",
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": 50,
+          "row_spacing": 75,
+          "planting_depth": 50,
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Chisanga2020_2017_rainfed",
+          "planting_level_name": "PD2",
+          "planting_date": "2016-12-26",
+          "emergence_date": "2017-01-04",
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": 50,
+          "row_spacing": 75,
+          "planting_depth": 50,
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Chisanga2020_2017_rainfed",
+          "planting_level_name": "PD3",
+          "planting_date": "2017-01-09",
+          "emergence_date": "2017-01-17",
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": 50,
+          "row_spacing": 75,
+          "planting_depth": 50,
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Chisanga2020_2017_irrigated",
+          "planting_level_name": {},
+          "planting_date": "2016-06-05",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": 30,
+          "row_spacing": 50,
+          "planting_depth": 50,
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

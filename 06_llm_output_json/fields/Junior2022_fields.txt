@@ -1,0 +1,270 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_4",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Aparecida do Taboado",
+          "field_latitude": -20.08,
+          "field_longitude": -51.3,
+          "field_elevation": 335
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_5",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_6",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_7",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_8",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_9",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_10",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_11",
+          "field_name": {},
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": "Colina",
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_12",
+          "field_name": "Aparecida do Taboado",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -20.08,
+          "field_longitude": -51.3,
+          "field_elevation": 335
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_13",
+          "field_name": "Colina",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -20.42,
+          "field_longitude": -48.32,
+          "field_elevation": 590
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_14",
+          "field_name": "Olimpia",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -20.43,
+          "field_longitude": -48.53,
+          "field_elevation": 500
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2005_15",
+          "field_name": "Coruripe",
+          "field_country": "Brazil",
+          "field_sub_country": "Alagoas",
+          "field_sub_sub_country": {},
+          "field_latitude": -10.12,
+          "field_longitude": -36.03,
+          "field_elevation": 16
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2006_16",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2013_17",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2014_18",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2014_19",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2015_20",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2015_21",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Junior2022_2016_22",
+          "field_name": "Piracicaba",
+          "field_country": "Brazil",
+          "field_sub_country": "Sao Paulo",
+          "field_sub_sub_country": {},
+          "field_latitude": -22.73,
+          "field_longitude": -47.64,
+          "field_elevation": 540
+        }
+      ]
+    }
+  ]
+}

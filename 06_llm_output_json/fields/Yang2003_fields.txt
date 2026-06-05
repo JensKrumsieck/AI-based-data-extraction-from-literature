@@ -1,0 +1,60 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Yang2004_1999_Lincoln",
+          "field_name": "Lincoln",
+          "field_country": "USA",
+          "field_sub_country": "Nebraska",
+          "field_sub_sub_country": {},
+          "field_latitude": 40.82,
+          "field_longitude": -96.65,
+          "field_elevation": 357
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Yang2004_2000_Lincoln",
+          "field_name": "Lincoln",
+          "field_country": "USA",
+          "field_sub_country": "Nebraska",
+          "field_sub_sub_country": {},
+          "field_latitude": 40.82,
+          "field_longitude": -96.65,
+          "field_elevation": 357
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Yang2004_2001_Lincoln",
+          "field_name": "Lincoln",
+          "field_country": "USA",
+          "field_sub_country": "Nebraska",
+          "field_sub_sub_country": {},
+          "field_latitude": 40.82,
+          "field_longitude": -96.65,
+          "field_elevation": 357
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Yang2004_2002_Manchester",
+          "field_name": "Manchester",
+          "field_country": "USA",
+          "field_sub_country": "Iowa",
+          "field_sub_sub_country": {},
+          "field_latitude": 42.47,
+          "field_longitude": -91.45,
+          "field_elevation": 302
+        }
+      ]
+    }
+  ]
+}

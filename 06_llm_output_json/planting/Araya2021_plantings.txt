@@ -1,0 +1,234 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2020_2004_Mekelle",
+          "planting_level_name": "early",
+          "planting_date": "2004-07-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2004_Mekelle",
+          "planting_level_name": "normal",
+          "planting_date": "2004-07-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2004_Mekelle",
+          "planting_level_name": "late",
+          "planting_date": "2004-07-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2020_2008_Mekelle",
+          "planting_level_name": "early",
+          "planting_date": "2008-07-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2008_Mekelle",
+          "planting_level_name": "normal",
+          "planting_date": "2008-07-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2008_Mekelle",
+          "planting_level_name": "late",
+          "planting_date": "2008-07-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2020_2009_Mekelle",
+          "planting_level_name": "early",
+          "planting_date": "2009-07-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2009_Mekelle",
+          "planting_level_name": "normal",
+          "planting_date": "2009-07-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2009_Mekelle",
+          "planting_level_name": "late",
+          "planting_date": "2009-07-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2020_2010_Maychew",
+          "planting_level_name": "early",
+          "planting_date": "2010-07-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2010_Maychew",
+          "planting_level_name": "normal",
+          "planting_date": "2010-07-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2010_Maychew",
+          "planting_level_name": "late",
+          "planting_date": "2010-07-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2020_2010_Mekelle",
+          "planting_level_name": "early",
+          "planting_date": "2010-07-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2010_Mekelle",
+          "planting_level_name": "normal",
+          "planting_date": "2010-07-12",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        },
+        {
+          "experiment_ID": "Araya2020_2010_Mekelle",
+          "planting_level_name": "late",
+          "planting_date": "2010-07-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": {},
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": {},
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": "The planting date treatments were barley planting on July 4 (early), July 12 (normal) and July 22 (late) based on the local practice."
+        }
+      ]
+    }
+  ]
+}

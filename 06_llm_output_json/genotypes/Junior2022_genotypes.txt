@@ -1,0 +1,222 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2004_Colina",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2004_Olimpia",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2004_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "R570",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2004_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB72454",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2004_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "SP832847",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2004_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "NCo376",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2005_AparecidaDoTaboado",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2005_Colina",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2005_Olimpia",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2005_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "R570",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2005_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB72454",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2005_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "SP832847",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Junior2022_2005_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "NCo376",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2006_AparecidaDoTaboado",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2006_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2007_AparecidaDoTaboado",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2013_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2014_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2015_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2016_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2019_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "RB867515",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Junior2022_2020_Piracicaba",
+          "crop_ident_ICASA": "SUC",
+          "cultivar_name": "R570",
+          "crop_intended_use": "C",
+          "cultivar_notes": {}
+        }
+      ]
+    }
+  ]
+}

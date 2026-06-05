@@ -1,0 +1,165 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2000_Melkassa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "61",
+          "N_in_applied_fertilizer": "41",
+          "phosphorus_applied_fert": "20",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2002_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "144",
+          "N_in_applied_fertilizer": "100",
+          "phosphorus_applied_fert": "44",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2003_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "144",
+          "N_in_applied_fertilizer": "100",
+          "phosphorus_applied_fert": "44",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2004_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "144",
+          "N_in_applied_fertilizer": "100",
+          "phosphorus_applied_fert": "44",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2004_Melkassa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "61",
+          "N_in_applied_fertilizer": "41",
+          "phosphorus_applied_fert": "20",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2005_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "80",
+          "N_in_applied_fertilizer": "50",
+          "phosphorus_applied_fert": "30",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2005_Melkassa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "61",
+          "N_in_applied_fertilizer": "41",
+          "phosphorus_applied_fert": "20",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2007_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "80",
+          "N_in_applied_fertilizer": "50",
+          "phosphorus_applied_fert": "30",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2008_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "144",
+          "N_in_applied_fertilizer": "100",
+          "phosphorus_applied_fert": "44",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Getnet2022_2008_Kulumsa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "80",
+          "N_in_applied_fertilizer": "50",
+          "phosphorus_applied_fert": "30",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Getnet2022_2008_Melkassa",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "61",
+          "N_in_applied_fertilizer": "41",
+          "phosphorus_applied_fert": "20",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Kimball1999_1993",
+          "field_name": "Maricopa",
+          "field_country": "USA",
+          "field_sub_country": "Arizona",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Kimball1999_1994",
+          "field_name": "Maricopa",
+          "field_country": "USA",
+          "field_sub_country": "Arizona",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Kimball1999_1996",
+          "field_name": "Maricopa",
+          "field_country": "USA",
+          "field_sub_country": "Arizona",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Kimball1999_1997",
+          "field_name": "Maricopa",
+          "field_country": "USA",
+          "field_sub_country": "Arizona",
+          "field_sub_sub_country": {},
+          "field_latitude": {},
+          "field_longitude": {},
+          "field_elevation": {}
+        }
+      ]
+    }
+  ]
+}

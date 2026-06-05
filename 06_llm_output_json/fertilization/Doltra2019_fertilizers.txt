@@ -1,0 +1,1807 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2001_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2002_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2003_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2003_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2004_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2004_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2005_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2005_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Villaviciosa",
+          "fertiliz_app_name": "G + C 1 yr (O)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "150",
+          "N_in_applied_fertilizer": "150",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Villaviciosa",
+          "fertiliz_app_name": "G + C 2 yr (O)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "143",
+          "N_in_applied_fertilizer": "143",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Villaviciosa",
+          "fertiliz_app_name": "G + C 1 yr (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "260",
+          "N_in_applied_fertilizer": "260",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Villaviciosa",
+          "fertiliz_app_name": "G + C 2 yr (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "238",
+          "N_in_applied_fertilizer": "238",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "G + C 1 yr (O)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "140",
+          "N_in_applied_fertilizer": "140",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "G + C 2 yr (O)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "153",
+          "N_in_applied_fertilizer": "153",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "Winter GM (O)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "G + C 1 yr (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "260",
+          "N_in_applied_fertilizer": "260",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "G + C 2 yr (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "238",
+          "N_in_applied_fertilizer": "238",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2006_Grado",
+          "fertiliz_app_name": "Winter crop (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "225",
+          "N_in_applied_fertilizer": "225",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2007_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2007_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "fertiliz_app_name": "3 M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Mulched green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "fertiliz_app_name": "0 M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Green manure removed"
+        },
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "fertiliz_app_name": "0 M-D",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "110",
+          "N_in_applied_fertilizer": "110",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Green manure removed and digested green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "fertiliz_app_name": "D",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "110",
+          "N_in_applied_fertilizer": "110",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Digested green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2008_Vaernes",
+          "fertiliz_app_name": "I",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "80",
+          "N_in_applied_fertilizer": "80",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Mineral fertilizer (Conv.)"
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Frick",
+          "fertiliz_app_name": "RTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2008_Montepaldi",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "40",
+          "N_in_applied_fertilizer": "40",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2008_Montepaldi",
+          "fertiliz_app_name": "Conv.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "117",
+          "N_in_applied_fertilizer": "117",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2018_2009_Vaernes",
+          "fertiliz_app_name": "3 M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Mulched green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2009_Vaernes",
+          "fertiliz_app_name": "0 M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Green manure removed"
+        },
+        {
+          "experiment_ID": "Doltra2018_2009_Vaernes",
+          "fertiliz_app_name": "0 M-D",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "110",
+          "N_in_applied_fertilizer": "110",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Green manure removed and digested green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2009_Vaernes",
+          "fertiliz_app_name": "D",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "110",
+          "N_in_applied_fertilizer": "110",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Digested green manure"
+        },
+        {
+          "experiment_ID": "Doltra2018_2009_Vaernes",
+          "fertiliz_app_name": "I",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "80",
+          "N_in_applied_fertilizer": "80",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Mineral fertilizer (Conv.)"
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "O2+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "85",
+          "N_in_applied_fertilizer": "85",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "O2+CC-M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "O2-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "79",
+          "N_in_applied_fertilizer": "79",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "O4+CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "88",
+          "N_in_applied_fertilizer": "88",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "O4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Foulum",
+          "fertiliz_app_name": "C4-CC + M",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "139",
+          "N_in_applied_fertilizer": "139",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "fertiliz_app_name": "Org.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "31",
+          "N_in_applied_fertilizer": "31",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "fertiliz_app_name": "Integrated.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "83",
+          "N_in_applied_fertilizer": "83",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "fertiliz_app_name": "Conv. Int.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "fertiliz_app_name": "Conv. Ext.",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "95",
+          "N_in_applied_fertilizer": "95",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Osiny",
+          "fertiliz_app_name": "Mono (C)",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "187",
+          "N_in_applied_fertilizer": "187",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Doltra2019_2009_Frick",
+          "fertiliz_app_name": "CTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Frick",
+          "fertiliz_app_name": "CTS",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "97",
+          "N_in_applied_fertilizer": "97",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Doltra2019_2009_Frick",
+          "fertiliz_app_name": "RTMC",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "111",
+          "N_in_applied_fertilizer": "111",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "

@@ -1,0 +1,446 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "168",
+          "N_in_applied_fertilizer": "168",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_1999_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "168",
+          "N_in_applied_fertilizer": "168",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2000_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2001_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "134",
+          "N_in_applied_fertilizer": "134",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2002_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "207",
+          "N_in_applied_fertilizer": "151",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "134",
+          "N_in_applied_fertilizer": "134",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2003_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "218",
+          "N_in_applied_fertilizer": "151",
+          "phosphorus_applied_fert": "67",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "146",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2004_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "176",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "30",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2005_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "176",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "30",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "314",
+          "N_in_applied_fertilizer": "258",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2006_SiteTO",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "62",
+          "N_in_applied_fertilizer": "56",
+          "phosphorus_applied_fert": "6",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "134",
+          "N_in_applied_fertilizer": "134",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteRK",
+          "fertiliz_app_name": "Sweet Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "235",
+          "N_in_applied_fertilizer": "168",
+          "phosphorus_applied_fert": "67",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "314",
+          "N_in_applied_fertilizer": "258",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2007_SiteTO",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "62",
+          "N_in_applied_fertilizer": "56",
+          "phosphorus_applied_fert": "6",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "101",
+          "N_in_applied_fertilizer": "101",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "180",
+          "N_in_applied_fertilizer": "146",
+          "phosphorus_applied_fert": "34",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteRK",
+          "fertiliz_app_name": "Sweet Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "179",
+          "N_in_applied_fertilizer": "179",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "314",
+          "N_in_applied_fertilizer": "258",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2008_SiteTO",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "62",
+          "N_in_applied_fertilizer": "56",
+          "phosphorus_applied_fert": "6",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2009_SiteRK",
+          "fertiliz_app_name": "Sweet Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "179",
+          "N_in_applied_fertilizer": "179",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "314",
+          "N_in_applied_fertilizer": "258",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2009_SiteTO",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "62",
+          "N_in_applied_fertilizer": "56",
+          "phosphorus_applied_fert": "6",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2010_SiteRK",
+          "fertiliz_app_name": "Sweet Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "179",
+          "N_in_applied_fertilizer": "179",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+          "fertiliz_app_name": "Corn",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "314",
+          "N_in_applied_fertilizer": "258",
+          "phosphorus_applied_fert": "56",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Sinnathamby2016_2010_SiteTO",
+          "fertiliz_app_name": "Grain Sorghum",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "62",
+          "N_in_applied_fertilizer": "56",
+          "phosphorus_applied_fert": "6",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

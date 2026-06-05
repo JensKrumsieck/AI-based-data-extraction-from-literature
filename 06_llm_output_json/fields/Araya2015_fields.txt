@@ -1,0 +1,238 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2000",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2001",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2002",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2003",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2004",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2005",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2006",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2007",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2008",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2009",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2010",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2011",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Araya2015_2012",
+          "field_name": "Bako",
+          "field_country": "Ethiopia",
+          "field_sub_country": {},
+          "field_sub_sub_country": {},
+          "field_latitude": 9.1,
+          "field_longitude": 37.15,
+          "field_elevation": {
+            "lower": 1550,
+            "upper": 1750,
+            "mean": 1650
+          }
+        }
+      ]
+    }
+  ]
+}

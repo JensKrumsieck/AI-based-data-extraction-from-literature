@@ -1,0 +1,130 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Kimball1997_1993",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "277",
+          "N_in_applied_fertilizer": "277",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Kimball1997_1994",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "261",
+          "N_in_applied_fertilizer": "261",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Kimball1997_1996",
+          "fertiliz_app_name": "High N",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "350",
+          "N_in_applied_fertilizer": "350",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Kimball1997_1996",
+          "fertiliz_app_app_name": "High N",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "33",
+          "N_in_applied_fertilizer": "33",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "from the irrigation water itself"
+        },
+        {
+          "experiment_ID": "Kimball1997_1996",
+          "fertiliz_app_name": "Low N",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "70",
+          "N_in_applied_fertilizer": "70",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Kimball1997_1996",
+          "fertilizer_app_name": "Low N",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "30",
+          "N_in_applied_fertilizer": "30",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "from the irrigation water itself"
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Kimball1997_1997",
+          "fertilizer_app_name": "High N",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "350",
+          "N_in_applied_fertilizer": "350",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Kimball1997_1997",
+          "fertilizer_app_name": "High N",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "33",
+          "N_in_applied_fertilizer": "33",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "from the irrigation water itself"
+        },
+        {
+          "experiment_ID": "Kimball1997_1997",
+          "fertilizer_app_name": "Low N",
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "15",
+          "N_in_applied_fertilizer": "15",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        },
+        {
+          "experiment_ID": "Kimball1997_1997",
+          "fertilizer_app_name": "Low N",
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": "30",
+          "N_in_applied_fertilizer": "30",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "from the irrigation water itself"
+        }
+      ]
+    }
+  ]
+}
