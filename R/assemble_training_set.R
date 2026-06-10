@@ -193,6 +193,6 @@ lapply(names(training_attributes), function(sec) {
   )
 })
 
-
-# NB: had to rename Iqba2013 (> Iqbal2014) and Kimball1995 (> ###) due to naming inconsistencies in template
-# and markdowns
+# NB: had to rename Iqba2013 (> Iqbal2013) due to naming error on markdown
+# TODO: Check Kimball1995: lost at template reading
+# >>>> check csmTools error (falsely removed duplicate?)
