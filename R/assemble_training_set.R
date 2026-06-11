@@ -10,7 +10,7 @@
 
 # ---- Load environment ---------------------------------------------------------------------------------------------
 
-# pak::pak("fairagro/csmTools")  # run to update csmTools from GitHub
+# pak::pak("fairagro/csmTools")  # run only to update csmTools from GitHub
 # renv::restore()
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
@@ -187,5 +187,3 @@ lapply(names(target_attributes), function(sec) {
     output_file = file.path("./data/05_training_data", out_basename)  # training data name
   )
 })
-
-# NB: had to rename Iqba2013 (> Iqbal2013) due to naming error on markdown
