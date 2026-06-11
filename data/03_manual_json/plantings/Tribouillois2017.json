@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "crimson clover",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 320,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "faba bean",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 50,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "foxtail millet",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 680,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "white mustard",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 100,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "bristle oat",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 220,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "phacelia",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 390,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "forage pea",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 60,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "Italian ryegrass",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 550,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "turinip rape",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 150,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Tribouillois2017_2012",
+      "planting_level_name": "vetch",
       "planting_date": "16/08/2012",
       "emergence_date": null,
       "plant_pop_at_planting": 110,

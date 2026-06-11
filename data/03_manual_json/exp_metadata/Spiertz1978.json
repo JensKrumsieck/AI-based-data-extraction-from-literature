@@ -4,6 +4,7 @@
       "experiment_ID": "Spiertz1978_1977",
       "name_of_experiment": "field experiment",
       "experiment_type": "ET001",
+      "objectives_of_study": null,
       "management_type": "MT001",
       "number_of_replicates": "6",
       "number_of_treatments": "6",

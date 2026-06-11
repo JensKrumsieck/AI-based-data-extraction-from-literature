@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Dueri2022_2013_Leeston",
+      "planting_level_name": "Ferbruary",
       "planting_date": "2012-02-21",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2013_Leeston",
+      "planting_level_name": "late_March",
       "planting_date": "2012-03-26",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2014_Leeston",
+      "planting_level_name": "February",
       "planting_date": "2013-02-20",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2014_Leeston",
+      "planting_level_name": "late_March",
       "planting_date": "2013-03-26",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2014_Leeston",
+      "planting_level_name": "April",
       "planting_date": "2013-04-16",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2015_Leeston",
+      "planting_level_name": "Ferbruary",
       "planting_date": "2014-02-20",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2015_Leeston",
+      "planting_level_name": "Early_March",
       "planting_date": "2014-03-10",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2015_Leeston",
+      "planting_level_name": "Late_March",
       "planting_date": "2014-03-26",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2015_Leeston",
+      "planting_level_name": "April",
       "planting_date": "2014-04-23",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2016_Wakanui",
+      "planting_level_name": "February",
       "planting_date": "2015-02-20",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2016_Wakanui",
+      "planting_level_name": "Early_March",
       "planting_date": "2015-03-10",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2016_Wakanui",
+      "planting_level_name": "Late_March",
       "planting_date": "2015-03-20",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -158,6 +170,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2016_Wakanui",
+      "planting_level_name": "April",
       "planting_date": "2015-04-09",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -171,6 +184,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2017_Wakanui",
+      "planting_level_name": "February",
       "planting_date": "2016-02-24",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -184,6 +198,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2017_Wakanui",
+      "planting_level_name": "Early_March",
       "planting_date": "2016-03-08",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -197,6 +212,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2017_Wakanui",
+      "planting_level_name": "Late_March",
       "planting_date": "2016-03-29",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -210,6 +226,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2017_Wakanui",
+      "planting_level_name": "April",
       "planting_date": "2016-04-14",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -223,6 +240,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2018_Wakanui",
+      "planting_level_name": "Early_March",
       "planting_date": "2017-03-09",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -236,6 +254,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2018_Wakanui",
+      "planting_level_name": "Late_March",
       "planting_date": "2017-03-30",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -249,6 +268,7 @@
     },
     {
       "experiment_ID": "Dueri2022_2018_Wakanui",
+      "planting_level_name": "April",
       "planting_date": "2017-04-19",
       "emergence_date": null,
       "plant_pop_at_planting": null,

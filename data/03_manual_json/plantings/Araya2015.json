@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Araya2015_2000",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Araya2015_2001",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Araya2015_2002",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Araya2015_2003",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Araya2015_2004",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Araya2015_2005",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Araya2015_2006",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Araya2015_2007",
+      "planting_level_name": null,
       "planting_date": "2007-05-25",
       "emergence_date": null,
       "plant_pop_at_planting": 4.4,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Araya2015_2008",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Araya2015_2009",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Araya2015_2010",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Araya2015_2011",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,

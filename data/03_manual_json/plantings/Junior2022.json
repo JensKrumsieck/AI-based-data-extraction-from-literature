@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Junior2022_2005_Colina",
+      "planting_level_name": null,
       "planting_date": "2004-02-10",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Junior2022_2005_Olimpia",
+      "planting_level_name": null,
       "planting_date": "2004-02-10",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Junior2022_2005_Piracicaba",
+      "planting_level_name": null,
       "planting_date": "2004-10-29",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Junior2022_2006",
+      "planting_level_name": null,
       "planting_date": "2005-08-16",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Junior2022_2007",
+      "planting_level_name": null,
       "planting_date": "2006-07-01",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Junior2022_2013",
+      "planting_level_name": null,
       "planting_date": "2012-12-06",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Junior2022_2014",
+      "planting_level_name": null,
       "planting_date": "2013-10-15",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Junior2022_2015",
+      "planting_level_name": null,
       "planting_date": "2014-07-15",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Junior2022_2016",
+      "planting_level_name": null,
       "planting_date": "2015-06-08",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Junior2022_2019",
+      "planting_level_name": null,
       "planting_date": "2018-05-10",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Junior2022_2019",
+      "planting_level_name": null,
       "planting_date": "2018-11-06",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Junior2022_2020",
+      "planting_level_name": null,
       "planting_date": "31/11/2019",
       "emergence_date": null,
       "plant_pop_at_planting": null,

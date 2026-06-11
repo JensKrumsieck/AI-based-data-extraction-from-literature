@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Wallach2021_2010_Eradu",
+      "planting_level_name": "early",
       "planting_date": "2010-05-14",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_Eradu",
+      "planting_level_name": "convential",
       "planting_date": "2010-05-27",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_Eradu",
+      "planting_level_name": "late",
       "planting_date": "2010-06-22",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_LakeBolac",
+      "planting_level_name": "early",
       "planting_date": "2010-05-03",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_LakeBolac",
+      "planting_level_name": "convential",
       "planting_date": "2010-05-19",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_LakeBolac",
+      "planting_level_name": "late",
       "planting_date": "2010-07-08",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_Minnipa",
+      "planting_level_name": "early",
       "planting_date": "2010-04-30",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_Minnipa",
+      "planting_level_name": "convential",
       "planting_date": "2010-05-31",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_Minnipa",
+      "planting_level_name": "late",
       "planting_date": "2010-06-24",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_SpringRidge",
+      "planting_level_name": "early",
       "planting_date": "2010-05-10",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_SpringRidge",
+      "planting_level_name": "convential",
       "planting_date": "2010-06-11",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2010_SpringRidge",
+      "planting_level_name": "late",
       "planting_date": "2010-07-01",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -158,6 +170,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Eradu",
+      "planting_level_name": "early",
       "planting_date": "2011-04-29",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -171,6 +184,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Eradu",
+      "planting_level_name": "convential",
       "planting_date": "2011-05-24",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -184,6 +198,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Eradu",
+      "planting_level_name": "late",
       "planting_date": "2011-06-23",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -197,6 +212,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_LakeBolac",
+      "planting_level_name": "early",
       "planting_date": "2011-05-09",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -210,6 +226,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_LakeBolac",
+      "planting_level_name": "convential",
       "planting_date": "2011-06-03",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -223,6 +240,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_LakeBolac",
+      "planting_level_name": "late",
       "planting_date": "2011-06-16",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -236,6 +254,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Minnipa",
+      "planting_level_name": "early",
       "planting_date": "2011-05-13",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -249,6 +268,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Minnipa",
+      "planting_level_name": "convential",
       "planting_date": "2011-05-27",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -262,6 +282,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_Minnipa",
+      "planting_level_name": "late",
       "planting_date": "2011-06-24",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -275,6 +296,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_SpringRidge",
+      "planting_level_name": "early",
       "planting_date": "2011-05-09",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -288,6 +310,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_SpringRidge",
+      "planting_level_name": "convential",
       "planting_date": "2011-06-06",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -301,6 +324,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2011_SpringRidge",
+      "planting_level_name": "late",
       "planting_date": "2011-06-23",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -314,6 +338,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Bungunya",
+      "planting_level_name": "early",
       "planting_date": "2012-05-10",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -327,6 +352,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Bungunya",
+      "planting_level_name": "convential",
       "planting_date": "2012-05-22",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -340,6 +366,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Bungunya",
+      "planting_level_name": "late",
       "planting_date": "2012-06-23",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -353,6 +380,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Corrigin",
+      "planting_level_name": "early",
       "planting_date": "2012-05-02",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -366,6 +394,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Corrigin",
+      "planting_level_name": "convential",
       "planting_date": "2012-05-21",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -379,6 +408,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Corrigin",
+      "planting_level_name": "late",
       "planting_date": "2012-06-21",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -392,6 +422,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Nangwee",
+      "planting_level_name": "early",
       "planting_date": "2012-05-17",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -405,6 +436,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Nangwee",
+      "planting_level_name": "convential",
       "planting_date": "2012-05-31",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -418,6 +450,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Nangwee",
+      "planting_level_name": "late",
       "planting_date": "2012-06-23",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -431,6 +464,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Temora",
+      "planting_level_name": "early",
       "planting_date": "2012-05-05",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -444,6 +478,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Temora",
+      "planting_level_name": "convential",
       "planting_date": "2012-05-23",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -457,6 +492,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Temora",
+      "planting_level_name": "late",
       "planting_date": "2012-06-25",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -470,6 +506,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Turretfield",
+      "planting_level_name": "early",
       "planting_date": "2012-05-30",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -483,6 +520,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Turretfield",
+      "planting_level_name": "convential",
       "planting_date": "2012-06-15",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -496,6 +534,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Turretfield",
+      "planting_level_name": "late",
       "planting_date": "2012-07-05",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -509,6 +548,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Walpeup",
+      "planting_level_name": "early",
       "planting_date": "2012-04-27",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -522,6 +562,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Walpeup",
+      "planting_level_name": "convential",
       "planting_date": "2012-06-04",
       "emergence_date": null,
       "plant_pop_at_planting": 110,
@@ -535,6 +576,7 @@
     },
     {
       "experiment_ID": "Wallach2021_2012_Walpeup",
+      "planting_level_name": "late",
       "planting_date": "2012-07-18",
       "emergence_date": null,
       "plant_pop_at_planting": 110,

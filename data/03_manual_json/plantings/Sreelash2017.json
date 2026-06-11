@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Sreelash2017_2011",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Sreelash2017_2012",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Sreelash2017_2013",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,

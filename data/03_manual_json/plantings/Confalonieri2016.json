@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Confalonieri2016_2004_Opera",
+      "planting_level_name": null,
       "planting_date": "2004-05-24",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Confalonieri2016_2004_Vignate",
+      "planting_level_name": null,
       "planting_date": "2002-04-29",
       "emergence_date": null,
       "plant_pop_at_planting": null,

@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Gabriel2019_2007",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2008",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2009",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2010",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2011",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2012",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2013",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2014",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2015",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Gabriel2019_2016",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,

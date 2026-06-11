@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Liben2018_2010_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Liben2018_2010_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Liben2018_2011_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Liben2018_2011_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Liben2018_2012_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Liben2018_2012_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Liben2018_2013_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Liben2018_2013_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Liben2018_2014_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Liben2018_2014_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Liben2018_2015_Bako",
+      "planting_level_name": "maize BH546 ",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Liben2018_2015_Bako",
+      "planting_level_name": "soybean Dhidhesa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -158,6 +170,7 @@
     },
     {
       "experiment_ID": "Liben2018_2015_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -171,6 +184,7 @@
     },
     {
       "experiment_ID": "Liben2018_2015_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -184,6 +198,7 @@
     },
     {
       "experiment_ID": "Liben2018_2016_Bako",
+      "planting_level_name": "maize BH546 ",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -197,6 +212,7 @@
     },
     {
       "experiment_ID": "Liben2018_2016_Bako",
+      "planting_level_name": "soybean Dhidhesa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -210,6 +226,7 @@
     },
     {
       "experiment_ID": "Liben2018_2016_Melkassa",
+      "planting_level_name": "maize Melkassa",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -223,6 +240,7 @@
     },
     {
       "experiment_ID": "Liben2018_2016_Melkassa",
+      "planting_level_name": "dry bean Nassir",
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,

@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Basso2010_1992",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Basso2010_1993",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Basso2010_1994",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Basso2010_1995",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Basso2010_1996",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Basso2010_1997",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Basso2010_1998",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Basso2010_1999",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Basso2010_2000",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Basso2010_2001",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -132,6 +142,7 @@
     },
     {
       "experiment_ID": "Basso2010_2002",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -145,6 +156,7 @@
     },
     {
       "experiment_ID": "Basso2010_2003",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -158,6 +170,7 @@
     },
     {
       "experiment_ID": "Basso2010_2004",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -171,6 +184,7 @@
     },
     {
       "experiment_ID": "Basso2010_2005",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -184,6 +198,7 @@
     },
     {
       "experiment_ID": "Basso2010_2006",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -197,6 +212,7 @@
     },
     {
       "experiment_ID": "Basso2010_2007",
+      "planting_level_name": null,
       "planting_date": "2006-12-28",
       "emergence_date": null,
       "plant_pop_at_planting": null,

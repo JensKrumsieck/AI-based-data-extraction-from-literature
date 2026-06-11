@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Grant1991_1983",
+      "planting_level_name": null,
       "planting_date": "1982-10-21",
       "emergence_date": null,
       "plant_pop_at_planting": 200,

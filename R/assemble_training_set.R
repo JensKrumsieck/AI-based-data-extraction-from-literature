@@ -36,9 +36,9 @@ str_datasets <- csmTools::get_field_data0(
 # Set list of attributes to extract for the training job (long headers here)
 target_attributes <- list(
   EXP_METADATA = c(
-    "experiment_ID", "name_of_experiment", "experiment_type", "management_type", "number_of_replicates",
-    "number_of_treatments", "experimental_design", "main_experiment_factor", "experimental_factor_comb",
-    "experiment_duration"
+    "experiment_ID", "name_of_experiment", "experiment_type", "objectives_of_study", "management_type",
+    "number_of_replicates", "number_of_treatments", "experimental_design", "main_experiment_factor",
+    "experimental_factor_comb", "experiment_duration"
   ),
   FIELDS = c(
     "experiment_ID", "field_name", "field_country", "field_sub_country", "field_sub_sub_country",
@@ -54,7 +54,7 @@ target_attributes <- list(
     "experiment_ID", "irrigation_operation_name", "irrigation_date", "irrig_amount_depth", "irrigation_operation_notes"
   ),
   PLANTINGS = c(
-    "experiment_ID", "plantng_level_name", "planting_date", "emergence_date", "plant_pop_at_planting",
+    "experiment_ID", "planting_level_name", "planting_date", "emergence_date", "plant_pop_at_planting",
     "plant_pop_at_emergence", "planting_material", "planting_distribution", "plant_spacing", "row_spacing",
     "planting_depth", "planting_notes"
   ),

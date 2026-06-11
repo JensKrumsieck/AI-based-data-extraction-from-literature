@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Yang2003_1999_Lincoln",
+      "planting_level_name": "D1",
       "planting_date": "1999-05-13",
       "emergence_date": "1999-05-21",
       "plant_pop_at_planting": 7,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Yang2003_1999_Lincoln",
+      "planting_level_name": "D2",
       "planting_date": "1999-05-13",
       "emergence_date": "1999-05-21",
       "plant_pop_at_planting": 8.9,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Yang2003_1999_Lincoln",
+      "planting_level_name": "D3",
       "planting_date": "1999-05-13",
       "emergence_date": "1999-05-21",
       "plant_pop_at_planting": 11.3,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Yang2003_2000_Lincoln",
+      "planting_level_name": "D1",
       "planting_date": "2000-04-21",
       "emergence_date": "2000-04-29",
       "plant_pop_at_planting": 6.9,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Yang2003_2000_Lincoln",
+      "planting_level_name": "D2",
       "planting_date": "2000-04-21",
       "emergence_date": "2000-04-29",
       "plant_pop_at_planting": 9.6,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Yang2003_2000_Lincoln",
+      "planting_level_name": "D3",
       "planting_date": "2000-04-21",
       "emergence_date": "2000-04-29",
       "plant_pop_at_planting": 11,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "Yang2003_2001_Lincoln",
+      "planting_level_name": "D1",
       "planting_date": "2001-04-26",
       "emergence_date": "2001-05-02",
       "plant_pop_at_planting": 7.7,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "Yang2003_2001_Lincoln",
+      "planting_level_name": "D2",
       "planting_date": "2001-04-26",
       "emergence_date": "2001-05-02",
       "plant_pop_at_planting": 10.2,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "Yang2003_2001_Lincoln",
+      "planting_level_name": "D3",
       "planting_date": "2001-04-26",
       "emergence_date": "2001-05-02",
       "plant_pop_at_planting": 11.2,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "Yang2003_2002_Manchester",
+      "planting_level_name": null,
       "planting_date": "2002-05-08",
       "emergence_date": "2023-05-23",
       "plant_pop_at_planting": 8.4,

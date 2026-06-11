@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "HOULES2004_1994_Thibie",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "HOULES2004_1995_Thibie",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "HOULES2004_1998_Boigneville",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "HOULES2004_1998_Thibie",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "HOULES2004_1999_Boigneville",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "HOULES2004_1999_Thibie",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -80,6 +86,7 @@
     },
     {
       "experiment_ID": "HOULES2004_2000_Chambry",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -93,6 +100,7 @@
     },
     {
       "experiment_ID": "HOULES2004_2001_Chambry",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -106,6 +114,7 @@
     },
     {
       "experiment_ID": "HOULES2004_2002_LaCheppe",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -119,6 +128,7 @@
     },
     {
       "experiment_ID": "HOULES2004_2002_LaMinere",
+      "planting_level_name": null,
       "planting_date": null,
       "emergence_date": null,
       "plant_pop_at_planting": null,

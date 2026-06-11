@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Bechini2005_1987",
+      "planting_level_name": null,
       "planting_date": "1986-10-20",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Bechini2005_1988",
+      "planting_level_name": null,
       "planting_date": "1987-10-25",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Bechini2005_1990",
+      "planting_level_name": null,
       "planting_date": "1989-11-02",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Bechini2005_1991",
+      "planting_level_name": null,
       "planting_date": "1990-11-16",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -54,6 +58,7 @@
     },
     {
       "experiment_ID": "Bechini2005_1997",
+      "planting_level_name": null,
       "planting_date": "1996-10-14",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -67,6 +72,7 @@
     },
     {
       "experiment_ID": "Bechini2005_2002",
+      "planting_level_name": null,
       "planting_date": "2001-11-16",
       "emergence_date": null,
       "plant_pop_at_planting": null,

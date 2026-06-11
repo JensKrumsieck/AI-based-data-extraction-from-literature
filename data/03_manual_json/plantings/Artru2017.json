@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Artru2017_2015",
+      "planting_level_name": null,
       "planting_date": "2014-10-21",
       "emergence_date": null,
       "plant_pop_at_planting": 250,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Artru2017_2016",
+      "planting_level_name": null,
       "planting_date": "2015-10-27",
       "emergence_date": null,
       "plant_pop_at_planting": 300,

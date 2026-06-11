@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Iqbal2013_1999",
+      "planting_level_name": null,
       "planting_date": "1998-10-01",
       "emergence_date": "1998-10-07",
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Iqbal2013_2000",
+      "planting_level_name": null,
       "planting_date": "1999-10-01",
       "emergence_date": "1999-10-07",
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Iqbal2013_2001",
+      "planting_level_name": null,
       "planting_date": "2000-10-01",
       "emergence_date": "2000-10-07",
       "plant_pop_at_planting": null,

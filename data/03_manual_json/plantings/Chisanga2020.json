@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Chisanga2020_2017",
+      "planting_level_name": "Irrigated_5th June 2016",
       "planting_date": "2016-06-05",
       "emergence_date": null,
       "plant_pop_at_planting": null,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Chisanga2020_2017",
+      "planting_level_name": "Rainfed_12th December 2016",
       "planting_date": "2016-12-12",
       "emergence_date": "2016-12-19",
       "plant_pop_at_planting": null,
@@ -28,6 +30,7 @@
     },
     {
       "experiment_ID": "Chisanga2020_2017",
+      "planting_level_name": "Rainfed_26th December 2016",
       "planting_date": "2016-12-26",
       "emergence_date": "2017-01-04",
       "plant_pop_at_planting": null,
@@ -41,6 +44,7 @@
     },
     {
       "experiment_ID": "Chisanga2020_2017",
+      "planting_level_name": "Rainfed_9th January 2017",
       "planting_date": "2017-01-09",
       "emergence_date": "2017-01-17",
       "plant_pop_at_planting": null,

@@ -2,6 +2,7 @@
   "PLANTINGS": [
     {
       "experiment_ID": "Abedinpour2012_2009",
+      "planting_level_name": null,
       "planting_date": "2009-07-22",
       "emergence_date": null,
       "plant_pop_at_planting": 6.6667,
@@ -15,6 +16,7 @@
     },
     {
       "experiment_ID": "Abedinpour2012_2010",
+      "planting_level_name": null,
       "planting_date": "2010-07-16",
       "emergence_date": null,
       "plant_pop_at_planting": 6.6667,
