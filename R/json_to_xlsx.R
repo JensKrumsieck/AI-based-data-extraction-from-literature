@@ -45,21 +45,21 @@ for (study in names(study_tables)) {
     
     header_dims <- openxlsx2::wb_dims(rows = 1, cols = 1:ncol(df))
     
-    wb <- wb %>%
-      openxlsx2::wb_add_worksheet(sheet = section) %>%
-      openxlsx2::wb_add_data(sheet = section, x = df) %>%
+    wb <- wb |>
+      openxlsx2::wb_add_worksheet(sheet = section) |>
+      openxlsx2::wb_add_data(sheet = section, x = df) |>
       # Apply header style
       openxlsx2::wb_add_font(
         sheet = section,
         dims = header_dims,
         bold = TRUE,
-        color = wb_color("white")
-      ) %>%
+        color = openxlsx2::wb_color("white")
+      ) |>
       openxlsx2::wb_add_fill(
         sheet = section,
         dims = header_dims,
-        color = wb_color("#2E75B6")
-      ) %>%
+        color = openxlsx2::wb_color("#2E75B6")
+      ) |>
       # Auto-fill col width
       openxlsx2::wb_set_col_widths(
         sheet = section,
@@ -68,5 +68,5 @@ for (study in names(study_tables)) {
       )
   }
   
-  wb_save(wb, file = file.path(output_dir, paste0(tools::file_path_sans_ext(study), ".xlsx")))
+  openxlsx2::wb_save(wb, file = file.path(output_dir, paste0(tools::file_path_sans_ext(study), ".xlsx")))
 }
