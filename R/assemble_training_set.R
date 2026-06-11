@@ -8,15 +8,9 @@
 ## Email: benjamin.leroy@inrae.fr
 ## ------------------------------------------------------------------------------------------------------------------
 
-# ---- Install/load libraries ---------------------------------------------------------------------------------------
+# ---- Load environment ---------------------------------------------------------------------------------------------
 
-library(pak)
-pak::pak("fairagro/csmTools")  # run to install or update the package (install all dependencies when prompted)
-library(csmTools)  # load ICASA template from Excel file
-library(jsonlite)  # json file handling
-library(dplyr)  # bind_rows
-library(tools)  # file name utilities
-
+# renv::restore()
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
 
