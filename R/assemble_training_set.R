@@ -11,7 +11,7 @@
 # ---- Install/load libraries ---------------------------------------------------------------------------------------
 
 library(pak)
-# pak::pak("leroy-bml/csmTools")  # run to install or update the package (install all dependencies when prompted)
+pak::pak("fairagro/csmTools")  # run to install or update the package (install all dependencies when prompted)
 library(csmTools)  # load ICASA template from Excel file
 library(jsonlite)  # json file handling
 library(dplyr)  # bind_rows
@@ -34,7 +34,7 @@ str_datasets <- csmTools::get_field_data0(
 # ---- Select training subset ----------------------------------------------------------------------------------------
 
 # Set list of attributes to extract for the training job (long headers here)
-training_attributes <- list(
+target_attributes <- list(
   EXP_METADATA = c(
     "experiment_ID", "name_of_experiment", "experiment_type", "management_type", "number_of_replicates",
     "number_of_treatments", "experimental_design", "main_experiment_factor", "experimental_factor_comb",
@@ -69,20 +69,20 @@ training_attributes <- list(
 
 # Subset data and order sections/attributes
 data_subset <- lapply(str_datasets, function(ls) {
-  ls <- ls[names(training_attributes)[names(training_attributes) %in% names(ls)]]
-  lapply(names(ls), function(section) {
-    df <- ls[[section]]
-    attrs <- training_attributes[[section]]
+  ls <- ls[names(target_attributes)[names(target_attributes) %in% names(ls)]]
+  lapply(names(ls), function(sec) {
+    df <- ls[[sec]]
+    attrs <- target_attributes[[sec]]
     df <- df[attrs[attrs %in% colnames(df)]]
     df[!duplicated(df), ]
   }) |> setNames(names(ls))
 })
 
 # Transpose list (nest studies into standard ICASA sections)
-data_by_exp <- lapply(names(training_attributes), function(sec) {
+data_by_exp <- lapply(names(target_attributes), function(sec) {
   lapply(data_subset, function(ls) ls[[sec]])
 })
-names(data_by_exp) <- names(training_attributes)
+names(data_by_exp) <- names(target_attributes)
 
 # Merge by study (i.e., multi-year/multi-site experiments in the same study = unique training record)
 data_by_study <- lapply(data_by_exp, function(sec) {
@@ -174,17 +174,17 @@ generate_training_file <- function(sec = NULL, md_dir, str_dir, sys_msg, user_pr
 sys_msg <- "You are expert in agriculture"
 
 # Set section-specific prompts
-user_prompts <- lapply(names(training_attributes), function(section) {
-  attrs <- paste(training_attributes[[section]], collapse = ", ")
+user_prompts <- lapply(names(target_attributes), function(section) {
+  attrs <- paste(target_attributes[[section]], collapse = ", ")
   paste("Extract the ICASA", attrs, "variables from this content:")
-}) |> setNames(names(training_attributes))
+}) |> setNames(names(target_attributes))
 
 # Generate jsonl training sets
-lapply(names(training_attributes), function(sec) {
-  section <- tolower(sec)
-  out_basename <- paste0(section, ".jsonl")
+lapply(names(target_attributes), function(sec) {
+  subdir <- tolower(sec)
+  out_basename <- paste0(subdir, ".jsonl")
   generate_training_file(
-    sec = section,
+    sec = sec,
     md_dir = "./data/01_paper_md",  # markown folder
     str_dir = "./data/03_manual_json",  # json folder
     sys_msg = sys_msg,
@@ -195,4 +195,4 @@ lapply(names(training_attributes), function(sec) {
 
 # NB: had to rename Iqba2013 (> Iqbal2013) due to naming error on markdown
 # TODO: Check Kimball1995: lost at template reading
-# >>>> check csmTools error (falsely removed duplicate?)
+# >>>> check csmTools error (falsely removed as duplicate due to Kimball1999?)
