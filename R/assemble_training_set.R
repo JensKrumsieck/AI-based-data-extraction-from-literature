@@ -10,6 +10,7 @@
 
 # ---- Load environment ---------------------------------------------------------------------------------------------
 
+# pak::pak("fairagro/csmTools")  # run to update csmTools from GitHub
 # renv::restore()
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
@@ -188,5 +189,3 @@ lapply(names(target_attributes), function(sec) {
 })
 
 # NB: had to rename Iqba2013 (> Iqbal2013) due to naming error on markdown
-# TODO: Check Kimball1995: lost at template reading
-# >>>> check csmTools error (falsely removed as duplicate due to Kimball1999?)
