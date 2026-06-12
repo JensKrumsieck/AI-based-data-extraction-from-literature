@@ -1,0 +1,49 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Ottman2012_2007",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE010",
+          "fertilizer_total_amount": "210",
+          "N_in_applied_fertilizer": "210",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Ottman2012_2008",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE010",
+          "fertilizer_total_amount": "210",
+          "N_in_applied_fertilizer": "210",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Ottman2012_2009",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE010",
+          "fertilizer_total_amount": "210",
+          "N_in_applied_fertilizer": "210",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

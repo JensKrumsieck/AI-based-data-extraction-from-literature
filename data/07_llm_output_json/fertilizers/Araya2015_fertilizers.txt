@@ -1,0 +1,184 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2000_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2001_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2002_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2003_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2004_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2005_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2006_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2007_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "110",
+          "N_in_applied_fertilizer": "110",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2008_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2009_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2010_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Araya2015_2011_Bako",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

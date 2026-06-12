@@ -1,0 +1,49 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Iqbal2014_1999",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "450",
+          "N_in_applied_fertilizer": "150",
+          "phosphorus_applied_fert": "300",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Before sowing, each plot was irrigated with about 80 mm water containing 300 kg ha−1 ammonium phosphate and 150 kg ha−1 urea"
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Iqbal2014_2000",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "450",
+          "N_in_applied_fertilizer": "150",
+          "phosphorus_applied_fert": "300",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Before sowing, each plot was irrigated with about 80 mm water containing 300 kg ha−1 ammonium phosphate and 150 kg ha−1 urea"
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Iqbal2014_2001",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "450",
+          "N_in_applied_fertilizer": "150",
+          "phosphorus_applied_fert": "300",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "Before sowing, each plot was irrigated with about 80 mm water containing 300 kg ha−1 ammonium phosphate and 150 kg ha−1 urea"
+        }
+      ]
+    }
+  ]
+}

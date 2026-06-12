@@ -1,0 +1,30 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "100",
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": "100",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "at sowing"
+        },
+        {
+          "experiment_ID": "Akinseye2016_2013",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE006",
+          "fertilizer_total_amount": "50",
+          "N_in_applied_fertilizer": "50",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "at 40 days after planting"
+        }
+      ]
+    }
+  ]
+}

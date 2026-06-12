@@ -1,0 +1,154 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1994_Thibie",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1995_Thibie",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1998_Boigneville",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1998_Thibie",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1999_Boigneville",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_1999_Thibie",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_2000_Chambry",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_2001_Chambry",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_2002_LaCheppe",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    },
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "HOULES2004_2002_LaMinere",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": {},
+          "fertilizer_total_amount": {},
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": {}
+        }
+      ]
+    }
+  ]
+}

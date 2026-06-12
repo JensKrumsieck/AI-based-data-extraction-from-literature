@@ -1,0 +1,41 @@
+{
+  "cropYear": [
+    {
+      "FERTILIZERS": [
+        {
+          "experiment_ID": "Gebreselassie2015_2012",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE010",
+          "fertilizer_total_amount": "12",
+          "N_in_applied_fertilizer": {},
+          "phosphorus_applied_fert": "12",
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "applied during sowing period"
+        },
+        {
+          "experiment_ID": "Gebreselassie2015_2012",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "10",
+          "N_in_applied_fertilizer": "10",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "applied during vegetative stage"
+        },
+        {
+          "experiment_ID": "Gebreselassie2015_2012",
+          "fertiliz_app_name": {},
+          "fertilization_date": {},
+          "fertilizer_material": "FE005",
+          "fertilizer_total_amount": "10",
+          "N_in_applied_fertilizer": "10",
+          "phosphorus_applied_fert": {},
+          "fertilizer_K_applied": {},
+          "fertilizer_applic_notes": "applied at the beginning of flowering stage"
+        }
+      ]
+    }
+  ]
+}
