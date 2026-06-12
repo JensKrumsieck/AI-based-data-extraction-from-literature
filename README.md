@@ -97,28 +97,28 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                   │                                                                       │
                   v                                                                       │
   +-----------------------------+                                                         │
-  |  02_icasa_template/         |  ← Created by colleague, based on ICASA dictionary      │
+  |  03_icasa_template/         |  ← Created by colleague, based on ICASA dictionary      │
   |  ICASA variable schema      |    (Excel workbook with variable definitions            │
   |  (Excel .xlsm)              |     and tick-boxes for inclusion/exclusion)             │
   +-----------------------------+                                                         │
                   |                                                                       │
                   v                                                                       │
   +---------------------------------------------------------+                             │
-  |  R SCRIPTS  (01_scripts/R/)                             |  ←──────────────────────────┘
-  |  8 scripts, one per ICASA category:                     |     (also reads enriched .md)
+  |  R SCRIPTS  (R/)                                        |  ←──────────────────────────┘
+  |  assemble_training_set.R                                |     (also reads enriched .md)
   |                                                         |
-  |  Input:  02_icasa_template  +  FINAL enriched .md       |
+  |  Input:  03_icasa_template  +  FINAL enriched .md       |
   |  Output A → 04_manual_json/   (one JSON per paper)      |
-  |  Output B → 03_training_data/ (one JSONL per category)  |
+  |  Output B → 06_training_data/ (one JSONL per category)  |
   |                                                         |
   |  Categories:                                            |
-  |    exp_metadata · fields · genotypes · planting         |
-  |    irrigation · fertilization · harvest · plot_details  |
+  |    context_metadata · fields · genotypes · plantings    |
+  |    irrigations · fertilizers · harvests · plot_details  |
   +---------------------------------------------------------+
                   |                         |
                   v                         v
   +---------------------------+   +-------------------------------+
-  |  04_manual_json/          |   |  03_training_data/            |
+  |  04_manual_json/          |   |  06_training_data/            |
   |  Ground-truth JSON files  |   |  JSONL fine-tuning datasets   |
   |  (one JSON per paper,     |   |  (one .jsonl per category,    |
   |   per category)           |   |   55 items each:              |
@@ -146,14 +146,37 @@ This project is a **scientific data extraction pipeline** that uses **Large Lang
                   |             |  Calls OpenAI API           |
                   |             +-----------------------------+
                   |                         |
-                  |         +---------------+---------------+
-                  |         v                               v
-                  |  [OUT] 06_llm_output_json/    [OUT] 07_llm_output_tabular/
-                  |  <cat>/<paper>_<cat>.json          <category>.xlsx
-                  |                                         |
-                  +──────────────────► compare ◄────────────+
-                                           |
-                             (07_llm_output_tabular  vs  05_manual_tabular)
+                  |                         v
+                  |             +-----------------------------+
+                  |             |  07_llm_output_json/        |
+                  |             |  LLM-generated JSON files   |
+                  |             |  (one file per paper,       |
+                  |             |   per category)             |
+                  |             +-----------------------------+
+                  |                         |
+                  |                         v
+                  |             +-----------------------------+
+                  |             |  R SCRIPTS  (R/)            |
+                  |             |  convert json to tabular_*  |
+                  |             +-----------------------------+
+                  |                         |
+                  |                         v
+                  |             +-----------------------------+
+                  |             |  08_llm_output_tabular/     |
+                  |             |  LLM outputs in tabular     |
+                  |             |  Excel format               |
+                  |             |  (one .xlsx per category)   |
+                  |             +-----------------------------+
+                  |                         |
+                  +──────────────► compare ◄+
+                                       |
+                  +-----------------------------+
+                  |  STEP 4                     |
+                  |  step4_evaluation.py        |
+                  |                             |
+                  |  05_manual_tabular  vs      |
+                  |  08_llm_output_tabular      |
+                  +-----------------------------+
 ```
 
 ---
