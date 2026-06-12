@@ -1,0 +1,72 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2009",
+          "planting_level_name": {},
+          "planting_date": "2008-08-23",
+          "emergence_date": {},
+          "plant_pop_at_planting": 350,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 15,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2010",
+          "planting_level_name": {},
+          "planting_date": "2009-09-04",
+          "emergence_date": {},
+          "plant_pop_at_planting": 350,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 15,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "planting_level_name": "conventional density",
+          "planting_date": "2010-08-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": 350,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Bustos-Korts2013_2011",
+          "planting_level_name": "low density",
+          "planting_date": "2010-08-22",
+          "emergence_date": {},
+          "plant_pop_at_planting": 44,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": {},
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

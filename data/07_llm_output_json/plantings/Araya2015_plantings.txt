@@ -1,0 +1,22 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Araya2015_2007",
+          "planting_level_name": {},
+          "planting_date": "2007-05-25",
+          "emergence_date": {},
+          "plant_pop_at_planting": 44,
+          "plant_pop_at_emergence": {},
+          "planting_material": {},
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 75,
+          "planting_depth": 70,
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

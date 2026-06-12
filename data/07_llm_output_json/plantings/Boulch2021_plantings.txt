@@ -1,0 +1,54 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Boulch2021_2019_Beauvais",
+          "planting_level_name": "Beauvais_1",
+          "planting_date": "2019-04-24",
+          "emergence_date": {},
+          "plant_pop_at_planting": 70,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 45,
+          "planting_depth": {},
+          "planting_notes": {}
+        },
+        {
+          "experiment_ID": "Boulch2021_2019_Beauvais",
+          "planting_level_name": "Beauvais_2",
+          "planting_date": "2019-05-17",
+          "emergence_date": {},
+          "plant_pop_at_planting": 70,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 45,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    },
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Boulch2021_2019_CatillonFummenchon",
+          "planting_level_name": "CatillonFummenchon",
+          "planting_date": "2019-04-23",
+          "emergence_date": {},
+          "plant_pop_at_planting": 70,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 45,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}

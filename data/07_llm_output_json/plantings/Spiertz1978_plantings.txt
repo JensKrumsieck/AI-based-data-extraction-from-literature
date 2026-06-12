@@ -1,0 +1,22 @@
+{
+  "cropYear": [
+    {
+      "PLANTINGS": [
+        {
+          "experiment_ID": "Spiertz1978_1977",
+          "planting_level_name": {},
+          "planting_date": "1976-10-15",
+          "emergence_date": {},
+          "plant_pop_at_planting": 350,
+          "plant_pop_at_emergence": {},
+          "planting_material": "S",
+          "planting_distribution": "R",
+          "plant_spacing": {},
+          "row_spacing": 25,
+          "planting_depth": {},
+          "planting_notes": {}
+        }
+      ]
+    }
+  ]
+}
