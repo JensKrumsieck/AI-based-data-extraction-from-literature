@@ -1,0 +1,60 @@
+{
+  "cropYear": [
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Tian2017_2013",
+          "field_name": "Jinxiang",
+          "field_country": "China",
+          "field_sub_country": "Shandong",
+          "field_sub_sub_country": {},
+          "field_latitude": 34.9783,
+          "field_longitude": 116.1822,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Tian2017_2014",
+          "field_name": "Jinxiang",
+          "field_country": "China",
+          "field_sub_country": "Shandong",
+          "field_sub_sub_country": {},
+          "field_latitude": 34.9783,
+          "field_longitude": 116.1822,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Tian2017_2015",
+          "field_name": "Jinxiang",
+          "field_country": "China",
+          "field_sub_country": "Shandong",
+          "field_sub_sub_country": {},
+          "field_latitude": 34.9783,
+          "field_longitude": 116.1822,
+          "field_elevation": {}
+        }
+      ]
+    },
+    {
+      "FIELDS": [
+        {
+          "experiment_ID": "Tian2017_2016",
+          "field_name": "Jinxiang",
+          "field_country": "China",
+          "field_sub_country": "Shandong",
+          "field_sub_sub_country": {},
+          "field_latitude": 34.9783,
+          "field_longitude": 116.1822,
+          "field_elevation": {}
+        }
+      ]
+    }
+  ]
+}
