@@ -1,0 +1,256 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2010_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2010_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2010_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2010_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2011_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2011_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2011_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2011_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2012_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2012_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2012_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2012_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2013_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2013_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2013_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2013_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2014_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2014_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2014_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2014_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2015_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2015_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2015_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2015_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2016_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "Melkassa-II",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2016_Experiment-I_Melkassa",
+          "crop_ident_ICASA": "BE",
+          "cultivar_name": "Nassir",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Libe2018_2016_Experiment-I_Bako",
+          "crop_ident_ICASA": "MAZ",
+          "cultivar_name": "BH546",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Libe2018_2016_Experiment-I_Bako",
+          "crop_ident_ICASA": "SBN",
+          "cultivar_name": "Dhidhesa",
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    }
+  ]
+}

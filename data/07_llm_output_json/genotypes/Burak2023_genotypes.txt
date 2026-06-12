@@ -1,0 +1,26 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Burak2023_2020_Common_Hart",
+          "crop_ident_ICASA": "BAR",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    },
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Burak2023_2020_Foxfield",
+          "crop_ident_ICASA": "WHT",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    }
+  ]
+}

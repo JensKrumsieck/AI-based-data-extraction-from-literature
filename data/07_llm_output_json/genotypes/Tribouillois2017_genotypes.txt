@@ -1,0 +1,85 @@
+{
+  "cropYear": [
+    {
+      "GENOTYPES": [
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "WHT",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "VNS",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "VBN",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "OAT",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "RGA",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "TRC",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "FBN",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "MIL",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "RAP",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "PEA",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        },
+        {
+          "experiment_ID": "Tribouillois2018_2012_Auzeville",
+          "crop_ident_ICASA": "PHA",
+          "cultivar_name": {},
+          "crop_intended_use": "GR",
+          "cultivar_notes": {}
+        }
+      ]
+    }
+  ]
+}
