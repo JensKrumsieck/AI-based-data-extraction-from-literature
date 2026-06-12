@@ -187,7 +187,7 @@ The same R script pairs each enriched Markdown (user prompt) with the correspond
 - Calls the **fine-tuned OpenAI GPT model**  via API.
 - Saves the LLM responses as structured **JSON files** per paper per category.
 - output:LLM extracted JSON files (data/`08_llm_output_tabular/`)
-- 
+
 #### Step 4. manual and LLM extraction comparision (`py/step4_evaluation.py`)
 -input:05_manual_tabular and 08_llm_output_tabular
 
