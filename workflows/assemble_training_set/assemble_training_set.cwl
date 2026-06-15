@@ -32,10 +32,8 @@ inputs:
   inputBinding:
     prefix: --markdown_folder
 - id: json_folder
-  type: Directory
-  default:
-    class: Directory
-    location: ../../data/04_manual_json
+  type: string
+  default: data/04_manual_json
   inputBinding:
     prefix: --json_folder
 - id: output_directory
@@ -45,14 +43,14 @@ inputs:
     prefix: --output_directory
 
 outputs:
-- id: 03_manual_json
+- id: json_data
   type: Directory
   outputBinding:
-    glob: data/03_manual_json/
-- id: test
+    glob: $(inputs.json_folder)
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: test/
+    glob: $(inputs.output_directory)
 
 baseCommand:
 - Rscript

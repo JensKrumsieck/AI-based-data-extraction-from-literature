@@ -150,13 +150,13 @@ fix_empty_df <- function(df) {
 # Write output as separate json per study and section
 lapply(names(data_by_study), function(sec) {
   subdir <- tolower(sec)
-  dir.create(file.path("./data/03_manual_json", subdir), recursive = TRUE, showWarnings = FALSE)
+  dir.create(file.path(json_folder, subdir), recursive = TRUE, showWarnings = FALSE)
   
   lapply(names(data_by_study[[sec]]), function(study) {
     df <- fix_empty_df(data_by_study[[sec]][[study]])
     wrapped <- setNames(list(df), sec)
     json <- jsonlite::toJSON(wrapped, pretty = TRUE, na = "null", Date = "ISO8601", POSIXt = "ISO8601")
-    writeLines(json, con = file.path("./data/03_manual_json", subdir, paste0(study, ".json")))
+    writeLines(json, con = file.path(json_folder, subdir, paste0(study, ".json")))
   })
 })
 
