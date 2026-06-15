@@ -7,7 +7,7 @@ class: CommandLineTool
 requirements:
 - class: DockerRequirement
   dockerFile:
-    $include: ../../Dockerfile
+    $include: ../../Dockerfile.marker
   dockerImageId: sciwin-container
 - class: NetworkAccess
   networkAccess: true
