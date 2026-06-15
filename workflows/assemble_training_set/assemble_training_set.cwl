@@ -9,8 +9,6 @@ requirements:
   - entryname: R/assemble_training_set.R
     entry:
       $include: ../../R/assemble_training_set.R
-  - entryname: data/03_icasa_template/icasa_template_allColumns.xlsm
-    entry: $(inputs.data_03_icasa_template_icasa_template_allcolumns_xlsm)
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -19,17 +17,42 @@ requirements:
   networkAccess: true
 
 inputs:
-- id: data_03_icasa_template_icasa_template_allcolumns_xlsm
+- id: template_path
   type: File
   default:
     class: File
     location: ../../data/03_icasa_template/icasa_template_allColumns.xlsm
+  inputBinding:
+    prefix: --template_path
+- id: markdown_folder
+  type: Directory
+  default:
+    class: Directory
+    location: ../../data/02_final_processed_md
+  inputBinding:
+    prefix: --markdown_folder
+- id: json_folder
+  type: Directory
+  default:
+    class: Directory
+    location: ../../data/04_manual_json
+  inputBinding:
+    prefix: --json_folder
+- id: output_directory
+  type: string
+  default: test
+  inputBinding:
+    prefix: --output_directory
 
 outputs:
 - id: 03_manual_json
   type: Directory
   outputBinding:
     glob: data/03_manual_json/
+- id: test
+  type: Directory
+  outputBinding:
+    glob: test/
 
 baseCommand:
 - Rscript

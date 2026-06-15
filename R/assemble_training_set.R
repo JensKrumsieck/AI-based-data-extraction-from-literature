@@ -24,6 +24,8 @@
 # renv::restore()
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
+if (!require("optparse")) install.packages("optparse")
+library(optparse)
 
 option_list <- list(
   make_option(c("-t", "--template_path"), type = "character", default = NULL,
@@ -33,7 +35,7 @@ option_list <- list(
   make_option(c("-j", "--json_folder"), type = "character", default = NULL,
               help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
   make_option(c("-o", "--output_directory"), type = "character", default = NULL,
-              help = "Output directory for the generated jsonl training files", metavar = "DIR"),
+              help = "Output directory for the generated jsonl training files", metavar = "DIR")
 )
  
 opt_parser <- OptionParser(
@@ -159,7 +161,9 @@ lapply(names(data_by_study), function(sec) {
 })
 
 # ---- Create training files -----------------------------------------------------------------------------------------
-
+if (!dir.exists(output_directory)) {
+  dir.create(output_directory, recursive = TRUE)
+}
 # Function to generate training json pair
 generate_training_file <- function(sec = NULL, md_dir, str_dir, sys_msg, user_prompt, output_file) {
 
