@@ -20,7 +20,7 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: ../../data/02_final_processed_md
+  default: data/02_final_processed_md
   inputBinding:
     prefix: --output_folder
 

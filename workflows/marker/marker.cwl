@@ -22,7 +22,7 @@ inputs:
     position: 0
 - id: output_dir
   type: string
-  default: ../../data/01_paper_to_md
+  default: data/01_paper_to_md
   inputBinding:
     prefix: --output_dir
 
