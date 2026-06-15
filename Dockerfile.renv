@@ -1,2 +1,8 @@
 FROM rocker/r-ver:4.5
-RUN R -e 'install.packages("fairagro/csmTools")'
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libcurl4-openssl-dev libssl-dev libxml2-dev git \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN R -e 'install.packages("pak")' \
+ && R -e 'pak::pak("fairagro/csmTools")'

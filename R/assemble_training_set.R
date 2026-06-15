@@ -15,7 +15,7 @@
 
 # ---- Extract from template ----------------------------------------------------------------------------------------
 
-template_path <- "./data/02_icasa_template/icasa_template_allColumns.xlsm" 
+template_path <- "./data/03_icasa_template/icasa_template_allColumns.xlsm" 
 
 str_datasets <- csmTools::get_field_data0(
   path = template_path,
