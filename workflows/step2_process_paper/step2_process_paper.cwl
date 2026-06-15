@@ -20,15 +20,15 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: test
+  default: ../../data/02_final_processed_md
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: test
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: test/
+    glob: $(inputs.output_folder)
 
 baseCommand:
 - python3
