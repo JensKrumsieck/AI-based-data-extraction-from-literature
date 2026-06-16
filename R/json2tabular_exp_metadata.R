@@ -26,8 +26,12 @@ opt_parser <- OptionParser(
 
 opt <- parse_args(opt_parser)
 
-input_folder <- paste(opt$json_folder,"/context_metadata")
-output_folder <- opt$excel_folder
+input_folder <- paste(opt$json_folder, "context_metadata", sep="/")
+output_folder <- paste(opt$excel_folder, "context_metadata", sep="/")
+
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder, recursive = TRUE)
+}
 
 # ── 1. Configuration ──────────────────────────────────────────────────────────
 #input_folder  <- "C:\\Users\\xinxin\\OneDrive - Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V\\Desktop\\FAIRagro_fine_tunning\\data\\0_training_set_version2\\genotype_gpt-4.1-mini_finetuning_output_v040526_exp_metadata_v97"          # folder containing your JSON/txt files
