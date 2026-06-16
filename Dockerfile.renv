@@ -4,5 +4,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libcurl4-openssl-dev libssl-dev libxml2-dev git \
     && rm -rf /var/lib/apt/lists/*
 
-RUN R -e 'install.packages(c("pak", "optparse", "openxlsx"))' \
- && R -e 'pak::pak("fairagro/csmTools")'
+# install pak and csmtools (for cache)
+RUN R -e 'install.packages("pak")'
+RUN R -e 'pak::pak("fairagro/csmTools")'
+
+# install other packages
+RUN R -e 'install.packages(c("optparse", "openxlsx"))' 
