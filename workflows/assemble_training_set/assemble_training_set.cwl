@@ -12,7 +12,7 @@ requirements:
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
-  dockerImageId: sciwin-container
+  dockerImageId: renvContainer
 - class: NetworkAccess
   networkAccess: true
 

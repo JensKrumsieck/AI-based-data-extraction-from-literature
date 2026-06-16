@@ -12,7 +12,7 @@ requirements:
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
-  dockerImageId: sciwin-container
+  dockerImageId: renvContainer
 
 inputs:
 - id: input_folder
@@ -24,15 +24,15 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: manual_tabular
+  default: output_folder
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: manual_tabular
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: manual_tabular/
+    glob: $(inputs.output_folder)
 
 baseCommand:
 - Rscript
