@@ -11,9 +11,9 @@ if (!require("optparse")) install.packages("optparse")
 library(optparse)
 
 option_list <- list(
-  make_option(c("-j", "--json_folder"), type = "character", default = NULL,
+  make_option(c("-j", "--input_folder"), type = "character", default = NULL,
               help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
-  make_option(c("-o", "--output_directory"), type = "character", default = NULL,
+  make_option(c("-o", "--output_folder"), type = "character", default = NULL,
               help = "Output directory for the generated jsonl training files", metavar = "DIR")
 )
 
@@ -26,8 +26,8 @@ opt_parser <- OptionParser(
 
 opt <- parse_args(opt_parser)
 
-input_folder <- paste(opt$json_folder, "context_metadata", sep="/")
-output_folder <- paste(opt$excel_folder, "context_metadata", sep="/")
+input_folder <- paste(opt$input_folder, "context_metadata", sep="/")
+output_folder <- paste(opt$output_folder, "context_metadata", sep="/")
 
 if (!dir.exists(output_folder)) {
   dir.create(output_folder, recursive = TRUE)
@@ -82,19 +82,17 @@ convert_json_to_excel <- function(json_path, out_path) {
   )
   # ── Data Cleaning (Essential for Excel) ─────────────────────────────────────
   # Convert any remaining list-columns into comma-separated strings
-  df <- bind_rows(lapply(data$cropYear$EXP_METADATA, function(rec) {
-    
-    # Add missing fields
-    rec[setdiff(all_cols, names(rec))] <- ""
-    
-    # Convert {} or NULL → ""
-    rec <- lapply(rec, function(x) {
-      if (is.null(x) || (is.list(x) && length(x) == 0)) return("")
-      x
+  df[setdiff(all_cols, names(df))] <- ""
+  
+  # Flatten list-cells (nested {} / arrays) and NA/NULL into clean strings
+  df[] <- lapply(df, function(col) {
+    sapply(col, function(x) {
+      if (is.null(x) || length(x) == 0 || (length(x) == 1 && is.na(x))) return("")
+      if (is.list(x)) return(paste(unlist(x), collapse = ", "))
+      as.character(x)
     })
-    
-    as.data.frame(rec, stringsAsFactors = FALSE)
-  }))
+  })
+  
   df <- df[, all_cols]
   # ── Excel Workbook Creation ─────────────────────────────────────────────────
   wb <- createWorkbook()
