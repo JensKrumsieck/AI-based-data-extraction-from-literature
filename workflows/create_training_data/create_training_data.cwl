@@ -18,8 +18,10 @@ requirements:
 
 inputs:
 - id: markdown_folder
-  type: string
-  default: data/02_final_processed.md
+  type: Directory
+  default:
+    class: Directory
+    location: ../../data/02_final_processed_md
   inputBinding:
     prefix: --markdown_folder
 - id: json_folder
@@ -30,10 +32,8 @@ inputs:
   inputBinding:
     prefix: --json_folder
 - id: output_directory
-  type: Directory
-  default:
-    class: Directory
-    location: ../../test
+  type: string
+  default: test
   inputBinding:
     prefix: --output_directory
 - id: r_icasa_attributes_config_r
@@ -42,7 +42,12 @@ inputs:
     class: File
     location: ../../R/icasa_attributes_config.R
 
-outputs: []
+outputs:
+- id: test
+  type: Directory
+  outputBinding:
+    glob: test/
+
 baseCommand:
 - Rscript
 - R/create_training_data.R

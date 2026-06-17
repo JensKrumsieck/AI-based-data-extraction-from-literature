@@ -36,6 +36,11 @@ markdown_folder   <- opt$markdown_folder
 json_folder       <- opt$json_folder
 output_directory  <- opt$output_directory
 
+if (is.null(markdown_folder) || is.null(json_folder) || is.null(output_directory)) {
+  stop("--markdown_folder, --json_folder, and --output_directory are all required. Use --help for usage.")
+}
+
+
 # ---- Create training files -----------------------------------------------------------------------------------------
 source("R/icasa_attributes_config.R")
 
