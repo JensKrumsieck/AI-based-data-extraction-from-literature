@@ -1,9 +1,6 @@
 original_data = "data/05_manual_tabular"
 fake_data = "runs/output_folder"
 
-original_messages = "data/06_training_data"
-fake_messages = "runs/test"
-
 import json
 import os
 import openpyxl
@@ -80,7 +77,3 @@ if __name__ == "__main__":
     for name, f1, f2 in find_and_pair(original_data, fake_data, ".xlsx"):
         print(f"\n=== Comparing {name} ===")
         compare_excel(f1, f2)
-
-    for name, f1, f2 in find_and_pair(original_messages, fake_messages, ".jsonl"):
-        print(f"\n=== Comparing {name} ===")
-        compare_jsonl(f1, f2)
