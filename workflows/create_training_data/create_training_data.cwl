@@ -31,9 +31,9 @@ inputs:
     location: ../../data/04_manual_json
   inputBinding:
     prefix: --json_folder
-- id: output_directory
+- id: output_directory_name
   type: string
-  default: test
+  default: training_data
   inputBinding:
     prefix: --output_directory
 - id: r_icasa_attributes_config_r
@@ -43,10 +43,10 @@ inputs:
     location: ../../R/icasa_attributes_config.R
 
 outputs:
-- id: test
+- id: output_folder
   type: Directory
   outputBinding:
-    glob: test/
+    glob: $(inputs.output_directory_name)
 
 baseCommand:
 - Rscript
