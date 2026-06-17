@@ -19,9 +19,7 @@ opt_parser <- OptionParser(
 opt <- parse_args(opt_parser)
 
 template_path     <- opt$template_path
-markdown_folder   <- opt$markdown_folder
 json_folder       <- opt$json_folder
-output_directory  <- opt$output_directory
 
 str_datasets <- csmTools::get_field_data0(
   path = template_path,

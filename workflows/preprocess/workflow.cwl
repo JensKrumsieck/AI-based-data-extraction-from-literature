@@ -20,13 +20,13 @@ steps:
   in:
   - id: input_folder
     source: generate_icasa_json/icasa_json_outputs
-  run: ../json_to_xlsx/json_to_xlsx.cwl
+  run: json_to_xlsx.cwl
   out:
   - output_directory
 - id: generate_icasa_json
   in:
   - id: template_path
     source: icasa_template
-  run: ../generate_icasa_json/generate_icasa_json.cwl
+  run: generate_icasa_json.cwl
   out:
   - icasa_json_outputs

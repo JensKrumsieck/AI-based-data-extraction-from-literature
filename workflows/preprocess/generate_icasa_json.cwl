@@ -30,6 +30,7 @@ inputs:
   inputBinding:
     prefix: --json_folder
 - id: icasa_attributes
+  doc: "constant ICASA attribute names" 
   type: File
   default:
     class: File
