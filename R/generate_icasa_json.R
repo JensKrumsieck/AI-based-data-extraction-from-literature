@@ -5,7 +5,7 @@ option_list <- list(
   make_option(c("-t", "--template_path"), type = "character", default = NULL,
               help = "Path to the ICASA template (.xlsm) file", metavar = "FILE"),
   make_option(c("-j", "--json_folder"), type = "character", default = NULL,
-              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR"),
+              help = "Folder where/under which manually structured json files are read from and written to", metavar = "DIR")
 )
  
 opt_parser <- OptionParser(
@@ -23,8 +23,16 @@ markdown_folder   <- opt$markdown_folder
 json_folder       <- opt$json_folder
 output_directory  <- opt$output_directory
 
+str_datasets <- csmTools::get_field_data0(
+  path = template_path,
+  headers = "long",  # <-- set whether to use long or short ICASA headers
+  keep_empty = TRUE,
+  keep_null_events = TRUE,
+  keep_na_cols = TRUE
+)
+
 # ---- Extract from template ----------------------------------------------------------------------------------------
-source("icasa_attributes_config.R")
+source("R/icasa_attributes_config.R")
 
 # Subset data and order sections/attributes
 data_subset <- lapply(str_datasets, function(ls) {
