@@ -10,7 +10,7 @@ requirements:
     entry:
       $include: ../../R/generate_icasa_json.R
   - entryname: R/icasa_attributes_config.R
-    entry: $(inputs.r_icasa_attributes_config_r)
+    entry: $(inputs.icasa_attributes)
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -29,17 +29,17 @@ inputs:
   default: test
   inputBinding:
     prefix: --json_folder
-- id: r_icasa_attributes_config_r
+- id: icasa_attributes
   type: File
   default:
     class: File
     location: ../../R/icasa_attributes_config.R
 
 outputs:
-- id: test
+- id: icasa_json_outputs
   type: Directory
   outputBinding:
-    glob: test/
+    glob: $(inputs.json_folder)
 
 baseCommand:
 - Rscript
