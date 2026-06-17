@@ -46,13 +46,6 @@ opt_parser <- OptionParser(
   )
 )
 
-opt_parser <- OptionParser(
-  option_list = option_list,
-  description = paste(
-    "Assemble jsonl training files for LLM-supported extraction of context metadata from",
-    "tokenized scientific articles (markdown) based on the ICASA crop modeling controlled vocabulary."
-  )
-)
 opt <- parse_args(opt_parser)
 
 template_path     <- opt$template_path
