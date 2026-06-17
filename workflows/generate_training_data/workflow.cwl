@@ -11,6 +11,8 @@ inputs:
   type: Directory
 - id: icasa_template
   type: File
+- id: training_data_dirname
+  type: string
 
 outputs:
 - id: training_data
@@ -24,6 +26,8 @@ steps:
     source: process_paper/output_directory
   - id: json_folder
     source: generate_icasa_json/icasa_json_outputs
+  - id: output_directory_name
+    source: training_data_dirname
   run: create_training_data.cwl
   out:
   - output_folder

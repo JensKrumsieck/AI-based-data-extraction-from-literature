@@ -10,6 +10,8 @@ requirements:
 inputs:
 - id: icasa_template
   type: File
+- id: xlsx_dirname
+  type: string
 
 outputs:
 - id: manual_json
@@ -21,6 +23,8 @@ steps:
   in:
   - id: input_folder
     source: generate_icasa_json/icasa_json_outputs
+  - id: output_folder
+    source: xlsx_dirname
   run: json_to_xlsx.cwl
   out:
   - output_directory
