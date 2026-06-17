@@ -12,7 +12,7 @@ requirements:
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
-  dockerImageId: renvContainer
+  dockerImageId: renv-container
 
 inputs:
 - id: input_folder

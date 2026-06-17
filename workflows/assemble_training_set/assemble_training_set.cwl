@@ -12,7 +12,7 @@ requirements:
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
-  dockerImageId: renvContainer
+  dockerImageId: renv-container
 - class: NetworkAccess
   networkAccess: true
 
@@ -47,7 +47,7 @@ outputs:
   type: Directory
   outputBinding:
     glob: $(inputs.json_folder)
-- id: output_directory
+- id: training_data
   type: Directory
   outputBinding:
     glob: $(inputs.output_directory)
