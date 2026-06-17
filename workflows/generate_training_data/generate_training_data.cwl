@@ -2,26 +2,36 @@
 
 cwlVersion: v1.2
 class: Workflow
-label: create_manual_xlsx
 
 requirements:
 - class: SubworkflowFeatureRequirement
 
 inputs:
+- id: markdown_papers
+  type: Directory
 - id: icasa_template
   type: File
 
 outputs:
-- id: manual_json
+- id: training_data
   type: Directory
-  outputSource: json_to_xlsx/output_directory
+  outputSource: create_training_data/output_folder
 
 steps:
-- id: json_to_xlsx
+- id: create_training_data
+  in:
+  - id: markdown_folder
+    source: process_paper/output_directory
+  - id: json_folder
+    source: generate_icasa_json/icasa_json_outputs
+  run: create_training_data.cwl
+  out:
+  - output_folder
+- id: process_paper
   in:
   - id: input_folder
-    source: generate_icasa_json/icasa_json_outputs
-  run: json_to_xlsx.cwl
+    source: markdown_papers
+  run: process_paper.cwl
   out:
   - output_directory
 - id: generate_icasa_json
