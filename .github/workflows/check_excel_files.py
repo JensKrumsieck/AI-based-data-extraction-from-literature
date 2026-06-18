@@ -1,5 +1,5 @@
 original_data = "data/05_manual_tabular"
-fake_data = "runs/output_folder"
+fake_data = "04_manual_tabular"
 
 import json
 import os
