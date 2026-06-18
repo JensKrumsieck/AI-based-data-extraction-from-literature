@@ -6,9 +6,9 @@ class: CommandLineTool
 requirements:
 - class: InitialWorkDirRequirement
   listing:
-  - entryname: R/json2tabular_fertilizeration_improved.R
+  - entryname: R/json2tabular_fields.R
     entry:
-      $include: ../../R/json2tabular_fertilizeration_improved.R
+      $include: ../../R/json2tabular_fields.R
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -24,16 +24,16 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default:  fertilizers
+  default: llm_output_tabular/fields
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: output_directory
+- id: llm_output_tabular
   type: Directory
   outputBinding:
-    glob: $(inputs.output_folder)
+    glob: llm_output_tabular/
 
 baseCommand:
 - Rscript
-- R/json2tabular_fertilizeration_improved.R
+- R/json2tabular_fields.R
