@@ -6,9 +6,9 @@ class: CommandLineTool
 requirements:
 - class: InitialWorkDirRequirement
   listing:
-  - entryname: R/json2tabular_genotype.R
+  - entryname: R/json2tabular_harvest.R
     entry:
-      $include: ../../R/json2tabular_genotype.R
+      $include: ../../R/json2tabular_harvest.R
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -23,19 +23,17 @@ inputs:
   inputBinding:
     prefix: --input_folder
 - id: output_folder
-  type: Directory
-  default:
-    class: Directory
-    location: ../../llm_output_tabular/genotypes
+  type: string
+  default: llm_output_tabular/harvests
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: output_directory
+- id: llm_output_tabular
   type: Directory
   outputBinding:
-    glob: $(inputs.output_folder)
+    glob: llm_output_tabular/
 
 baseCommand:
 - Rscript
-- R/json2tabular_genotype.R
+- R/json2tabular_harvest.R
