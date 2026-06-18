@@ -6,9 +6,9 @@ class: CommandLineTool
 requirements:
 - class: InitialWorkDirRequirement
   listing:
-  - entryname: R/json2tabular_planting.R
+  - entryname: R/json2tabular_plotdetails.R
     entry:
-      $include: ../../R/json2tabular_planting.R
+      $include: ../../R/json2tabular_plotdetails.R
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -24,16 +24,16 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: llm_output_tabular/plantings
+  default: llm_output_tabular/plot_details
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: output_directory
+- id: llm_output_tabular
   type: Directory
   outputBinding:
-    glob: $(inputs.output_folder)
+    glob: llm_output_tabular/
 
 baseCommand:
 - Rscript
-- R/json2tabular_planting.R
+- R/json2tabular_plotdetails.R
