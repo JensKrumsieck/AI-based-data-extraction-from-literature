@@ -6,9 +6,9 @@ class: CommandLineTool
 requirements:
 - class: InitialWorkDirRequirement
   listing:
-  - entryname: R/json2tabular_harvest.R
+  - entryname: R/json2tabular_irrigation.R
     entry:
-      $include: ../../R/json2tabular_harvest.R
+      $include: ../../R/json2tabular_irrigation.R
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -24,16 +24,16 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: llm_output_tabular/harvests
+  default: llm_output_tabular/irrigations
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: output_directory
+- id: llm_output_tabular
   type: Directory
   outputBinding:
-    glob: $(inputs.output_folder)
+    glob: llm_output_tabular/
 
 baseCommand:
 - Rscript
-- R/json2tabular_harvest.R
+- R/json2tabular_irrigation.R
