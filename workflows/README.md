@@ -7,6 +7,11 @@ The `marker` step which converts PDFs to markdown is also not used in most of th
 ## Generate Manual Tabular Data
 `generate_manual_data` contains a workflow which extracts the manual data from the ICASA Template into JSON which is than converted into a tabular format, more specifically XLSX. Its purpose is to generate the manual ground truth data which later is compared to the LLM generated data.
 
+### Usage:
+```
+cwltool workflows/generate_manual_data/workflow.cwl inputs_generate_manual_data.yaml
+```
+
 ```mermaid
 ---
 config:
@@ -56,6 +61,11 @@ flowchart TB
 ## Generate Training Data
 `generate_training_data` contains a workflow which processes the extracted markdownfiles and generates training data in JSONL format by also using data from the ICASA template. This JSONL files need to be manually uploaded to OpenAIs Platform. That's why this workflow contains all needed steps up to this point and exits here. 
 The `marker` step is left out on purpose on this workflow due to copyright limitations.
+
+### Usage:
+```
+cwltool workflows/generate_training_data/workflow.cwl inputs_generate_training_data.yaml
+```
 
 ```mermaid
 ---
