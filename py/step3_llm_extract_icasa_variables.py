@@ -65,22 +65,25 @@ args = parser.parse_args()
 openai.api_key = os.getenv("OPENAI_API_KEY")  # set env var OPENAI_API_KEY
 
 # Fine-tuned model IDs — replace with your own fine-tuned model names
+# you can set defaults here which can be overridden by command line arguments
 FINE_TUNED_MODELS = {
-    item: f"ft:gpt-4.1-mini-2025-04-14:personal:{item.replace('_', '-').replace("-metadata","")}-{getattr(args, f"{item}_model")}"
-    for item in model_keys
+    "context_metadata": f"ft:gpt-4.1-mini-2025-04-14:personal:context-YOUR_ID",  # example
+    "fields": f"ft:gpt-4.1-mini-2025-04-14:personal:fields-YOUR_ID",
+    "genotypes": f"ft:gpt-4.1-mini-2025-04-14:personal:genotypes-YOUR_ID",
+    "plantings": f"ft:gpt-4.1-mini-2025-04-14:personal:plantings-YOUR_ID",
+    "irrigations": f"ft:gpt-4.1-mini-2025-04-14:personal:irrigations-YOUR_ID",
+    "fertilizers": f"ft:gpt-4.1-mini-2025-04-14:personal:fertilizers-YOUR_ID",
+    "harvests": f"ft:gpt-4.1-mini-2025-04-14:personal:harvests-YOUR_ID",
+    "plot_details": "ft:gpt-4.1-mini-2025-04-14:personal:plot-details-YOUR_ID",
 }
 
-# NOTE: to override the usage of arguments you could uncomment these lines
-# FINE_TUNED_MODELS = {
-#    "context_metadata": f"ft:gpt-4.1-mini-2025-04-14:personal:context-YOUR_ID",  # example
-#    "fields": f"ft:gpt-4.1-mini-2025-04-14:personal:fields-YOUR_ID",
-#    "genotypes": f"ft:gpt-4.1-mini-2025-04-14:personal:genotypes-YOUR_ID",
-#    "plantings": f"ft:gpt-4.1-mini-2025-04-14:personal:plantings-YOUR_ID",
-#    "irrigations": f"ft:gpt-4.1-mini-2025-04-14:personal:irrigations-YOUR_ID",
-#    "fertilizers": f"ft:gpt-4.1-mini-2025-04-14:personal:fertilizers-YOUR_ID",
-#    "harvests": f"ft:gpt-4.1-mini-2025-04-14:personal:harvests-YOUR_ID",
-#    "plot_details": "ft:gpt-4.1-mini-2025-04-14:personal:plot-details-YOUR_ID",
-# }
+# override with commandline arguments if present
+for item in model_keys:
+    value: str|None = getattr(args, f"{item}_model")
+    if value:
+        FINE_TUNED_MODELS[item] = (
+            f"ft:gpt-4.1-mini-2025-04-14:personal:{item.replace('_', '-').replace("-metadata","")}-{value}"
+        )
 
 # Paths
 MARKDOWN_FOLDER: str = args.input_folder
