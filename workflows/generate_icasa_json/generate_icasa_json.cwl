@@ -24,9 +24,9 @@ inputs:
     location: ../../data/03_icasa_template/icasa_template_allColumns.xlsm
   inputBinding:
     prefix: --template_path
-- id: json_folder
+- id: json_folder_name
   type: string
-  default: test
+  default: manual_json
   inputBinding:
     prefix: --json_folder
 - id: icasa_attributes

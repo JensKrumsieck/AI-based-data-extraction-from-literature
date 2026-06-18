@@ -10,7 +10,7 @@ requirements:
     entry:
       $include: ../../R/create_training_data.R
   - entryname: R/icasa_attributes_config.R
-    entry: $(inputs.r_icasa_attributes_config_r)
+    entry: $(inputs.icasa_attributes)
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -36,7 +36,7 @@ inputs:
   default: training_data
   inputBinding:
     prefix: --output_directory
-- id: r_icasa_attributes_config_r
+- id: icasa_attributes
   type: File
   default:
     class: File
