@@ -49,10 +49,10 @@ model_keys = [
 ]
 
 for item in model_keys:
+    # arguments are not required
     parser.add_argument(
         f"--{item}_model",
         help=f"GPT Model ID for ICASA {item} category",
-        required=True,
     )
 
 args = parser.parse_args()
@@ -70,7 +70,7 @@ FINE_TUNED_MODELS = {
     for item in model_keys
 }
 
-print(FINE_TUNED_MODELS)
+# NOTE: to override the usage of arguments you could uncomment these lines
 # FINE_TUNED_MODELS = {
 #    "context_metadata": f"ft:gpt-4.1-mini-2025-04-14:personal:context-YOUR_ID",  # example
 #    "fields": f"ft:gpt-4.1-mini-2025-04-14:personal:fields-YOUR_ID",
