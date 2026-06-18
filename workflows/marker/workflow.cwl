@@ -25,7 +25,7 @@ steps:
     source: pdf_directory
   out:
   - output_directory
-  run: ../marker/marker.cwl
+  run: marker.cwl
 - id: workflow
   in:
   - id: markdown_papers
