@@ -115,7 +115,7 @@ flowchart TB
   style generate_icasa_json_icasa_attributes font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
 ```
 
-The `marker` step can be used together with `generate_training_data` as subworkflow by using `workflows/marker/workflow.cwl` which gives the opportunity to use this pipeline with different PDF files.
+The `marker` step can be used together with `generate_training_data` as subworkflow by using `workflows/generate_training_data_using_marker/workflow.cwl` which gives the opportunity to use this pipeline with different PDF files.
 ```mermaid
 ---
 config:
