@@ -7,6 +7,8 @@ inputs:
   type: Directory
 - id: icasa_template
   type: File
+- id: openai_api_key
+  type: string
 
 outputs: []
 requirements:
@@ -70,6 +72,8 @@ steps:
     source: fine_tune_model/plot_details_model_id
   - id: input_folder
     source: process_paper/output_directory
+  - id: openai_api_key
+    source: openai_api_key
   out:
   - llm_output_json
   run: ../tune_and_use_llm_model/llm_extract_icasa.cwl
@@ -87,3 +91,59 @@ steps:
   - harvests_model_id
   - plot_details_model_id
   run: ../tune_and_use_llm_model/fine_tune_model.cwl
+- id: json2tabular_exp_metadata
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_exp_metadata.cwl
+- id: json2tabular_fertilizeration_improved
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_fertilizeration_improved.cwl
+- id: json2tabular_fields
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_fields.cwl
+- id: json2tabular_genotype
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_genotype.cwl
+- id: json2tabular_harvest
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_harvest.cwl
+- id: json2tabular_irrigation
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_irrigation.cwl
+- id: json2tabular_planting
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_planting.cwl
+- id: json2tabular_plotdetails
+  in:
+  - id: input_folder
+    source: llm_extract_icasa/llm_output_json
+  out:
+  - output_directory
+  run: ../json2tabular/json2tabular_plotdetails.cwl

@@ -24,7 +24,7 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: ../../llm_output_tabular/genotypes
+  default: llm_output_tabular/genotypes
   inputBinding:
     prefix: --output_folder
 

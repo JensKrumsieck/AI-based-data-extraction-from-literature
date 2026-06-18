@@ -26,3 +26,6 @@ jobs:
 
       - name: Run "generate_training_data"
         run: cwltool workflows/generate_training_data/workflow.cwl inputs_generate_training_data.yaml
+
+      - name: Run "json2tabular"
+        run: cwltool workflows/json2tabular/workflow.cwl inputs_json2tabular.yaml

@@ -171,3 +171,111 @@ flowchart TB
   style marker_output_dir_name font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style workflow stroke:#385723,stroke-width:2px;
 ```
+
+## Convert LLM JSON to Tabular files
+The `json2tabular` workflow combines the conversion of all supported ICASA categories to prepare for a comparison to the manual created data. 
+
+### Usage
+```
+cwltool workflows/json2tabular/workflow.cwl inputs_json2tabular.yaml
+```
+
+```mermaid
+---
+config:
+  theme: base
+  look: neo
+  themeVariables:
+    primaryColor: '#C5E0B4'
+    primaryTextColor: '#231f20'
+    secondaryColor: '#EEEEEE'
+    lineColor: '#385723'    
+    fontSize: 12px
+    tertiaryTextColor: '#231f20'
+    fontFamily: 'Fira Sans, trebuchet ms, verdana, arial'
+---
+flowchart TB
+  linkStyle default stroke:#385723,stroke-width: 2px;
+  subgraph inputs[Workflow Inputs]
+    direction TB
+    llm_output_json(llm_output_json)
+  end
+  subgraph outputs[Workflow Outputs]
+    direction TB
+    harvest(harvest)
+    fertilizers(fertilizers)
+    plantings(plantings)
+    plot_details(plot_details)
+    irrigations(irrigations)
+    fields(fields)
+    genotypes(genotypes)
+    exp_metadata(exp_metadata)
+  end
+    json2tabular_exp_metadata(json2tabular_exp_metadata)
+  llm_output_json --> |input_folder|json2tabular_exp_metadata
+    json2tabular_exp_metadata_output_folder(llm_output_tabular/exp_metadata)
+  json2tabular_exp_metadata_output_folder --> |output_folder|json2tabular_exp_metadata
+    json2tabular_genotype(json2tabular_genotype)
+  llm_output_json --> |input_folder|json2tabular_genotype
+    json2tabular_genotype_output_folder(llm_output_tabular/genotypes)
+  json2tabular_genotype_output_folder --> |output_folder|json2tabular_genotype
+    json2tabular_fields(json2tabular_fields)
+  llm_output_json --> |input_folder|json2tabular_fields
+    json2tabular_fields_output_folder(llm_output_tabular/fields)
+  json2tabular_fields_output_folder --> |output_folder|json2tabular_fields
+    json2tabular_irrigation(json2tabular_irrigation)
+  llm_output_json --> |input_folder|json2tabular_irrigation
+    json2tabular_irrigation_output_folder(llm_output_tabular/irrigations)
+  json2tabular_irrigation_output_folder --> |output_folder|json2tabular_irrigation
+    json2tabular_plotdetails(json2tabular_plotdetails)
+  llm_output_json --> |input_folder|json2tabular_plotdetails
+    json2tabular_plotdetails_output_folder(llm_output_tabular/plot_details)
+  json2tabular_plotdetails_output_folder --> |output_folder|json2tabular_plotdetails
+    json2tabular_planting(json2tabular_planting)
+  llm_output_json --> |input_folder|json2tabular_planting
+    json2tabular_planting_output_folder(llm_output_tabular/plantings)
+  json2tabular_planting_output_folder --> |output_folder|json2tabular_planting
+    json2tabular_fertilizeration_improved(json2tabular_fertilizeration_improved)
+  llm_output_json --> |input_folder|json2tabular_fertilizeration_improved
+    json2tabular_fertilizeration_improved_output_folder(llm_output_tabular/fertilizers)
+  json2tabular_fertilizeration_improved_output_folder --> |output_folder|json2tabular_fertilizeration_improved
+    json2tabular_harvest(json2tabular_harvest)
+  llm_output_json --> |input_folder|json2tabular_harvest
+    json2tabular_harvest_output_folder(llm_output_tabular/harvests)
+  json2tabular_harvest_output_folder --> |output_folder|json2tabular_harvest
+  json2tabular_harvest --> |harvest|harvest
+  json2tabular_fertilizeration_improved --> |fertilizers|fertilizers
+  json2tabular_planting --> |plantings|plantings
+  json2tabular_plotdetails --> |plot_details|plot_details
+  json2tabular_irrigation --> |irrigations|irrigations
+  json2tabular_fields --> |fields|fields
+  json2tabular_genotype --> |genotypes|genotypes
+  json2tabular_exp_metadata --> |exp_metadata|exp_metadata
+  style inputs fill:#EEEEEE,stroke-width:2px;
+  style llm_output_json stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style outputs fill:#EEEEEE,stroke-width:2px;
+  style harvest stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style fertilizers stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style plantings stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style plot_details stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style irrigations stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style fields stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style genotypes stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style exp_metadata stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style json2tabular_exp_metadata stroke:#385723,stroke-width:2px;
+  style json2tabular_exp_metadata_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_genotype stroke:#385723,stroke-width:2px;
+  style json2tabular_genotype_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_fields stroke:#385723,stroke-width:2px;
+  style json2tabular_fields_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_irrigation stroke:#385723,stroke-width:2px;
+  style json2tabular_irrigation_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_plotdetails stroke:#385723,stroke-width:2px;
+  style json2tabular_plotdetails_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_planting stroke:#385723,stroke-width:2px;
+  style json2tabular_planting_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_fertilizeration_improved stroke:#385723,stroke-width:2px;
+  style json2tabular_fertilizeration_improved_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style json2tabular_harvest stroke:#385723,stroke-width:2px;
+  style json2tabular_harvest_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+```
