@@ -173,7 +173,7 @@ flowchart TB
 ```
 
 ## Convert LLM JSON to Tabular files
-The `json2tabular` workflow combines the conversion of all supported ICASA categories to prepare for a comparison to the manual created data. 
+The `json2tabular` workflow combines the conversion of all supported ICASA categories to prepare for a comparison to the manual created data. The tools are all combined in this folder to create a small but helpful workflow.
 
 ### Usage
 ```
