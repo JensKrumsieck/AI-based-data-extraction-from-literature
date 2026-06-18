@@ -29,10 +29,10 @@ inputs:
     prefix: --output_folder
 
 outputs:
-- id: llm_output_tabular
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: llm_output_tabular/
+    glob: $(inputs.output_folder)
 
 baseCommand:
 - Rscript

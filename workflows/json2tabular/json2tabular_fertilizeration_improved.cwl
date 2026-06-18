@@ -6,9 +6,9 @@ class: CommandLineTool
 requirements:
 - class: InitialWorkDirRequirement
   listing:
-  - entryname: R/json2tabular_irrigation.R
+  - entryname: R/json2tabular_fertilizeration_improved.R
     entry:
-      $include: ../../R/json2tabular_irrigation.R
+      $include: ../../R/json2tabular_fertilizeration_improved.R
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile.renv
@@ -24,16 +24,16 @@ inputs:
     prefix: --input_folder
 - id: output_folder
   type: string
-  default: llm_output_tabular/irrigations
+  default:  llm_output_tabular/fertilizers
   inputBinding:
     prefix: --output_folder
 
 outputs:
-- id: llm_output_tabular
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: llm_output_tabular/
+    glob: $(inputs.output_folder)
 
 baseCommand:
 - Rscript
-- R/json2tabular_irrigation.R
+- R/json2tabular_fertilizeration_improved.R
