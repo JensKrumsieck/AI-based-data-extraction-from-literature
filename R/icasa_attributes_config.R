@@ -1,3 +1,5 @@
+# This extracted from /R/assemble_training_set.R and used by /R/create_training_data.R and /R/generate_icasa_json.R
+
 target_attributes <- list(
   EXP_METADATA = c(
     "experiment_ID", "name_of_experiment", "experiment_type", "objectives_of_study", "management_type",

@@ -1,0 +1,23 @@
+name: 🚀 Confirm Executability and run test
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  run_check:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with: 
+            python-version: '3.12'
+      - run: pip install cwltool
+
+      - name: Run "generate_manual_data"
+        run: cwltool workflows/generate_manual_data/workflow.cwl inputs_generate_manual_data.yaml
+
+      - name: Run "generate_training_data"
+        run: cwltool workflows/generate_training_data/workflow.cwl inputs_generate_training_data.yaml

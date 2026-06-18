@@ -7,6 +7,7 @@
 ## Date Created: 2025-08-06
 ## Email: benjamin.leroy@inrae.fr
 
+# This one half of /R/assemble_training_set.R
 if (!require("optparse")) install.packages("optparse")
 library(optparse)
 

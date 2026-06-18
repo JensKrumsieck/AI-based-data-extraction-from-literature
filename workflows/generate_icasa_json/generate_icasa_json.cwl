@@ -40,7 +40,7 @@ outputs:
 - id: icasa_json_outputs
   type: Directory
   outputBinding:
-    glob: $(inputs.json_folder)
+    glob: $(inputs.json_folder_name)
 
 baseCommand:
 - Rscript
