@@ -23,10 +23,8 @@ inputs:
   inputBinding:
     prefix: --input_folder
 - id: output_folder
-  type: Directory
-  default:
-    class: Directory
-    location: ../../llm_output_tabular/genotypes
+  type: string
+  default: ../../llm_output_tabular/genotypes
   inputBinding:
     prefix: --output_folder
 
