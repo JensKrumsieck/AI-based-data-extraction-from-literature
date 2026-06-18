@@ -26,7 +26,7 @@ opt_parser <- OptionParser(
 
 opt <- parse_args(opt_parser)
 
-input_folder <- paste(opt$input_folder, "fertilizer", sep="/")
+input_folder <- paste(opt$input_folder, "fertilizers", sep="/")
 output_folder <- opt$output_folder
 
 if (!dir.exists(output_folder)) {
