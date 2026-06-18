@@ -4,3 +4,4 @@ icasa_template:
 markdown_papers:
   class: Directory
   location: data/01_paper_to_md
+training_data_dirname: 06_training_data
