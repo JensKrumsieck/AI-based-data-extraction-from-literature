@@ -13,16 +13,16 @@ requirements:
   networkAccess: true
 
 inputs:
-- id: data_00_paper_list
+- id: pdf_directory
   type: Directory
   default:
     class: Directory
     location: ../../data/00_paper_list
   inputBinding:
     position: 0
-- id: output_dir
+- id: output_dir_name
   type: string
-  default: data/01_paper_to_md
+  default: paper_to_md
   inputBinding:
     prefix: --output_dir
 
@@ -30,6 +30,6 @@ outputs:
 - id: output_directory
   type: Directory
   outputBinding:
-    glob: $(inputs.output_dir)
+    glob: $(inputs.output_dir_name)
 
 baseCommand: marker
