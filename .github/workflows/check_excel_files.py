@@ -3,22 +3,26 @@ fake_data = "04_manual_tabular"
 
 import json
 import os
+import sys
 import openpyxl
 from openpyxl.utils import get_column_letter
 
 
-def compare_excel(file1, file2):
+def compare_excel(file1, file2) -> bool:
     wb1 = openpyxl.load_workbook(file1, data_only=True)
     wb2 = openpyxl.load_workbook(file2, data_only=True)
 
     sheets1, sheets2 = set(wb1.sheetnames), set(wb2.sheetnames)
+    check = True
 
     for name in sorted(sheets1 | sheets2):
         if name not in sheets1:
             print(f"Sheet only in {file2}: '{name}'")
+            check = False
             continue
         if name not in sheets2:
             print(f"Sheet only in {file1}: '{name}'")
+            check = False
             continue
 
         ws1, ws2 = wb1[name], wb2[name]
@@ -32,6 +36,8 @@ def compare_excel(file1, file2):
                 if v1 != v2:
                     col_letter = get_column_letter(c)
                     print(f"[{name}] row={r} col={col_letter} val1={v1!r} val2={v2!r}")
+                    check = False
+    return check
 
 def compare_jsonl(file1, file2):
     """Compare two JSONL files line by line; print whether they match and any diffs."""
@@ -66,8 +72,10 @@ def find_and_pair(dir1, dir2, ext):
 
     for name in only_orig:
         print(f"Only in {original_data}: {name}")
+        exit(1)
     for name in only_fake:
         print(f"Only in {fake_data}: {name}")
+        exit(1)
 
     return [(name, orig_files[name], fake_files[name]) for name in common]
 
@@ -76,4 +84,7 @@ if __name__ == "__main__":
 
     for name, f1, f2 in find_and_pair(original_data, fake_data, ".xlsx"):
         print(f"\n=== Comparing {name} ===")
-        compare_excel(f1, f2)
+        if not compare_excel(f1, f2):
+            sys.exit(1)
+        else: 
+            print("passed ✔️")
