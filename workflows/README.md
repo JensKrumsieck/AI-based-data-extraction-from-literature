@@ -153,7 +153,110 @@ flowchart TB
   style json2tabular_plotdetails stroke:#385723,stroke-width:2px;
   style json2tabular_plotdetails_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style evaluation stroke:#385723,stroke-width:2px;
-
+```
+An alternative visualization without printing the default values:
+```mermaid
+---
+config:
+  theme: base
+  look: neo
+  themeVariables:
+    primaryColor: '#C5E0B4'
+    primaryTextColor: '#231f20'
+    secondaryColor: '#EEEEEE'
+    lineColor: '#385723'    
+    fontSize: 12px
+    tertiaryTextColor: '#231f20'
+    fontFamily: 'Fira Sans, trebuchet ms, verdana, arial'
+---
+flowchart TB
+  linkStyle default stroke:#385723,stroke-width: 2px;
+  subgraph inputs[Workflow Inputs]
+    direction TB
+    pdf_files(pdf_files)
+    icasa_template(icasa_template)
+    openai_api_key(openai_api_key)
+    evaluation_folder_name(evaluation_folder_name)
+  end
+  subgraph outputs[Workflow Outputs]
+    direction TB
+    evaluation_directory(evaluation_directory)
+  end
+    marker(marker)
+  pdf_files --> |pdf_directory|marker
+    process_paper(process_paper)
+  marker --> |input_folder|process_paper
+    generate_icasa_json(generate_icasa_json)
+  icasa_template --> |template_path|generate_icasa_json
+    json_to_xlsx(json_to_xlsx)
+  generate_icasa_json --> |input_folder|json_to_xlsx
+    create_training_data(create_training_data)
+  generate_icasa_json --> |json_folder|create_training_data
+  process_paper --> |markdown_folder|create_training_data
+    llm_extract_icasa(llm_extract_icasa)
+  fine_tune_model --> |fields_model|llm_extract_icasa
+  fine_tune_model --> |context_metadata_model|llm_extract_icasa
+  fine_tune_model --> |genotypes_model|llm_extract_icasa
+  fine_tune_model --> |plantings_model|llm_extract_icasa
+  fine_tune_model --> |irrigations_model|llm_extract_icasa
+  fine_tune_model --> |fertilizers_model|llm_extract_icasa
+  fine_tune_model --> |harvests_model|llm_extract_icasa
+  fine_tune_model --> |plot_details_model|llm_extract_icasa
+  process_paper --> |input_folder|llm_extract_icasa
+  openai_api_key --> |openai_api_key|llm_extract_icasa
+    fine_tune_model(fine_tune_model)
+  create_training_data --> |training_data|fine_tune_model
+    json2tabular_exp_metadata(json2tabular_exp_metadata)
+  llm_extract_icasa --> |input_folder|json2tabular_exp_metadata
+    json2tabular_fertilizeration_improved(json2tabular_fertilizeration_improved)
+  llm_extract_icasa --> |input_folder|json2tabular_fertilizeration_improved
+    json2tabular_fields(json2tabular_fields)
+  llm_extract_icasa --> |input_folder|json2tabular_fields
+    json2tabular_genotype(json2tabular_genotype)
+  llm_extract_icasa --> |input_folder|json2tabular_genotype
+    json2tabular_harvest(json2tabular_harvest)
+  llm_extract_icasa --> |input_folder|json2tabular_harvest
+    json2tabular_irrigation(json2tabular_irrigation)
+  llm_extract_icasa --> |input_folder|json2tabular_irrigation
+    json2tabular_planting(json2tabular_planting)
+  llm_extract_icasa --> |input_folder|json2tabular_planting
+    json2tabular_plotdetails(json2tabular_plotdetails)
+  llm_extract_icasa --> |input_folder|json2tabular_plotdetails
+    evaluation(evaluation)
+  json2tabular_plotdetails --> |plot_details_dir|evaluation
+  json2tabular_planting --> |plantings_dir|evaluation
+  json2tabular_irrigation --> |irrigations_dir|evaluation
+  json2tabular_harvest --> |harvests_dir|evaluation
+  json2tabular_genotype --> |genotypes_dir|evaluation
+  json2tabular_fields --> |fields_dir|evaluation
+  json2tabular_fertilizeration_improved --> |fertilizers_dir|evaluation
+  json2tabular_exp_metadata --> |context_metadata_dir|evaluation
+  json_to_xlsx --> |reference_data|evaluation
+  evaluation_folder_name --> |output_folder|evaluation
+  evaluation --> |evaluation_directory|evaluation_directory
+  style inputs fill:#EEEEEE,stroke-width:2px;
+  style pdf_files stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style icasa_template stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style openai_api_key stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style evaluation_folder_name stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style outputs fill:#EEEEEE,stroke-width:2px;
+  style evaluation_directory stroke:#823909,fill:#F8CBAD,stroke-width:2px;
+  style marker stroke:#385723,stroke-width:2px;
+  style process_paper stroke:#385723,stroke-width:2px;
+  style generate_icasa_json stroke:#385723,stroke-width:2px;
+  style json_to_xlsx stroke:#385723,stroke-width:2px;
+  style create_training_data stroke:#385723,stroke-width:2px;
+  style llm_extract_icasa stroke:#385723,stroke-width:2px;
+  style fine_tune_model stroke:#385723,stroke-width:2px;
+  style json2tabular_exp_metadata stroke:#385723,stroke-width:2px;
+  style json2tabular_fertilizeration_improved stroke:#385723,stroke-width:2px;
+  style json2tabular_fields stroke:#385723,stroke-width:2px;
+  style json2tabular_genotype stroke:#385723,stroke-width:2px;
+  style json2tabular_harvest stroke:#385723,stroke-width:2px;
+  style json2tabular_irrigation stroke:#385723,stroke-width:2px;
+  style json2tabular_planting stroke:#385723,stroke-width:2px;
+  style json2tabular_plotdetails stroke:#385723,stroke-width:2px;
+  style evaluation stroke:#385723,stroke-width:2px;
 ```
 
 ## Generate Manual Tabular Data
