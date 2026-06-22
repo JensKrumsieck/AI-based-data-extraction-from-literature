@@ -1,3 +1,9 @@
+## Usage:
+##   Rscript json2tabular_planting.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+
 # Install required packages if not already installed
 if (!require("jsonlite")) install.packages("jsonlite")
 if (!require("openxlsx")) install.packages("openxlsx")

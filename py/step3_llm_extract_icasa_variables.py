@@ -21,6 +21,30 @@ Output:
 ICASA categories processed:
     fields, genotypes, plantings, irrigations, fertilizers,
     harvests, plot_details,
+
+Usage: python3 step3_llm_extract_icasa_variables.py -i INPUT_FOLDER -o OUTPUT_FOLDER
+                               [--context_metadata_model MODEL]
+                               [--fields_model MODEL]
+                               [--genotypes_model MODEL]
+                               [--plantings_model MODEL]
+                               [--irrigations_model MODEL]
+                               [--fertilizers_model MODEL]
+                               [--harvests_model MODEL]
+                               [--plot_details_model MODEL]
+
+Required arguments:
+  -i, --input_folder           Step 1 output
+  -o, --output_folder          Folder for all intermediate + final output
+
+Optional model overrides:
+  --context_metadata_model     GPT Model ID for ICASA context_metadata category
+  --fields_model               GPT Model ID for ICASA fields category
+  --genotypes_model            GPT Model ID for ICASA genotypes category
+  --plantings_model            GPT Model ID for ICASA plantings category
+  --irrigations_model          GPT Model ID for ICASA irrigations category
+  --fertilizers_model          GPT Model ID for ICASA fertilizers category
+  --harvests_model             GPT Model ID for ICASA harvests category
+  --plot_details_model         GPT Model ID for ICASA plot_details category
 """
 
 import os

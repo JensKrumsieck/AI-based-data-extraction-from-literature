@@ -6,6 +6,12 @@
 ## Author: Benjamin Leroy
 ## Date Created: 2025-08-06
 ## Email: benjamin.leroy@inrae.fr
+##
+## Usage:
+##   Rscript create_training_data.R \
+##     --markdown_folder DIR \
+##     --json_folder DIR \
+##     --output_directory DIR
 
 # This one half of /R/assemble_training_set.R
 if (!require("optparse")) install.packages("optparse")

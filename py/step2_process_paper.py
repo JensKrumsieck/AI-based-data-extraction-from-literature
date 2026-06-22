@@ -17,10 +17,15 @@ Pipeline:
     2.5  Combine 2.4 + results_1_0                → results_2_0
     2.6  Extract publication date
     2.7  Combine 2.6 + results_2_0                → results_3_0/  ← FINAL OUTPUT
- 
-Usage:
-    1. Set INPUT_MD_FOLDER and OUTPUT_FOLDER in USER CONFIG.
-    2. Run:  python step2_pipeline.py
+    
+Usage: python3 step2_process_paper.py -i INPUT_FOLDER -o OUTPUT_FOLDER
+
+Arguments:
+  -i, --input_folder    Step 1 output
+  -o, --output_folder   Folder for all intermediate + final output
+
+Example:
+  python3 step2_process_paper.py -i ./step1_output -o ./results
 """
 
 

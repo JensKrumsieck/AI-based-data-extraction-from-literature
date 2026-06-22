@@ -11,7 +11,7 @@
 ##   Rscript assemble_training_set.R \
 ##     --template_path ./data/03_icasa_template/icasa_template_allColumns.xlsm \
 ##     --markdown_folder ./data/01_paper_md \
-##     --json_folder ./data/03_manual_json \
+##     --json_folder ./data/04_manual_json \
 ##     --output_directory ./data/05_training_data
 ##
 ##   Rscript assemble_training_set.R --help

@@ -1,4 +1,13 @@
 # This one half of /R/assemble_training_set.R
+## Usage:
+##   Rscript generate_icasa_json.R \
+##     --template_path FILE \
+##     --json_folder DIR
+##
+## Example:
+##   Rscript generate_icasa_json.R \
+##     -t ICASA_template.xlsm \
+##     -j ./json
 
 if (!require("optparse")) install.packages("optparse")
 library(optparse)

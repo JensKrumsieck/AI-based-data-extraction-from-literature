@@ -7,7 +7,15 @@
 ## Date Created: 2025-06-10
 ## Email: benjamin.leroy@inrae.fr
 ## ------------------------------------------------------------------------------------------------------------------
-
+## Usage:
+##   Rscript json_to_xlsx.R \
+##     --input_folder DIR \
+##     --output_folder DIR
+##
+## Example:
+##   Rscript json_to_xlsx.R \
+##     -i manual_json \
+##     -o ./jsonl
 # ---- Load environment ---------------------------------------------------------------------------------------------
 
 # renv::restore()

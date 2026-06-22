@@ -3,6 +3,30 @@
 Created on Mon May  4 11:52:52 2026
 
 @author: xinxin
+
+Usage: python3 step4_evaluation.py -r REFERENCE_DATA -o OUTPUT_FOLDER
+                      [--context_metadata_dir DIR]
+                      [--fields_dir DIR]
+                      [--genotypes_dir DIR]
+                      [--plantings_dir DIR]
+                      [--irrigations_dir DIR]
+                      [--fertilizers_dir DIR]
+                      [--harvests_dir DIR]
+                      [--plot_details_dir DIR]
+
+Required arguments:
+  -r, --reference_data      manual tabular
+  -o, --output_folder       Folder for all intermediate + final output
+
+Optional directory overrides:
+  --context_metadata_dir    Folder for ICASA context_metadata category
+  --fields_dir              Folder for ICASA fields category
+  --genotypes_dir           Folder for ICASA genotypes category
+  --plantings_dir           Folder for ICASA plantings category
+  --irrigations_dir         Folder for ICASA irrigations category
+  --fertilizers_dir         Folder for ICASA fertilizers category
+  --harvests_dir            Folder for ICASA harvests category
+  --plot_details_dir        Folder for ICASA plot_details category
 """
 
 import os, sys, json
