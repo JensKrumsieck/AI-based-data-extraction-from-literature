@@ -51,6 +51,8 @@ steps:
   in:
   - id: output_folder
     source: processed_folder_name
+  - id: input_folder
+    source: md_folder
   out:
   - output_directory
   run: ../generate_training_data/process_paper.cwl
