@@ -1,6 +1,7 @@
 #!/usr/bin/env cwl-runner
 
 class: Workflow
+cwlVersion: v1.2
 
 inputs:
 - id: icasa_template
@@ -15,7 +16,9 @@ inputs:
   type: string
 - id: llm_output_json
   type: Directory
-- id: llm_tabular_dir
+- id: llm_tabular_folder_name
+  type: string
+- id: training_data_folder_name
   type: string
 
 outputs:
@@ -73,6 +76,8 @@ steps:
     source: generate_icasa_json/icasa_json_outputs
   - id: markdown_folder
     source: process_paper/output_directory
+  - id: output_directory_name
+    source: training_data_folder_name
   out:
   - output_folder
   run: ../generate_training_data/create_training_data.cwl
@@ -190,7 +195,7 @@ steps:
   - id: context_metadata_dir
     source: json2tabular_exp_metadata/output_directory
   - id: output_folder_name
-    source: llm_tabular_dir
+    source: llm_tabular_folder_name
   out:
   - merged_data
   run: ../util/merge.cwl

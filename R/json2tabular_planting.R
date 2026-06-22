@@ -26,7 +26,7 @@ opt_parser <- OptionParser(
 
 opt <- parse_args(opt_parser)
 
-input_folder <- paste(opt$input_folder, "plantings", sep="/")
+input_folder <- opt$input_folder
 output_folder <- opt$output_folder
 
 

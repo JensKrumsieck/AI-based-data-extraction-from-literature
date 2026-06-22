@@ -29,3 +29,6 @@ jobs:
 
       - name: Run "json2tabular"
         run: cwltool workflows/json2tabular/workflow.cwl inputs_json2tabular.yaml
+      
+      - name: Run "review"
+        run: cwltool workflows/review/workflow.cwl inputs_review.yaml
