@@ -6,7 +6,7 @@ The `marker` step which converts PDFs to markdown is also not used in most of th
 
 Example commands on how to execute are shown in `.github/workflows/check_executable.yaml` which is a GitHub Action that confirms those workflows are runnable.
 
-To run workflows a runner such as [`cwltool`](https://github.com/common-workflow-language/cwltool) is needed: `pip install cwltool`.
+To run workflows a runner such as [`cwltool`](https://github.com/common-workflow-language/cwltool) is needed: `pip install cwltool`. Furthermore `docker` (or a similiar technology) needs to be installed on the executing system.
 
 ## Main Workflow
 The main workflow file is located in this folder called `workflow.cwl` which represents a **non-executable** representation of the full pipeline including the beforementioned non-executable description of the `fine-tune_model` step. 
