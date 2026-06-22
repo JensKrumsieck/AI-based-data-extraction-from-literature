@@ -171,7 +171,7 @@ os.makedirs(output_dir, exist_ok=True)
 
 CATEGORIES = {
     "genotypes":        ("GENOTYPES_comparison.xlsx",   "GENOTYPES",       model_genotypes_path),
-    "context_metadata": ("METADATA_comparison.xlsx",    "context_metadata", model_context_metadata_path),
+    "context_metadata": ("METADATA_comparison.xlsx",    "EXP_METADATA", model_context_metadata_path),
     "fields":           ("FIELDS_comparison.xlsx",      "FIELDS",          model_fields_path),
     "plantings":        ("PLANTINGS_comparison.xlsx",   "PLANTINGS",       model_plantings_path),
     "irrigations":      ("IRRIGATIONS_comparison.xlsx", "IRRIGATIONS",     model_irrigations_path),
