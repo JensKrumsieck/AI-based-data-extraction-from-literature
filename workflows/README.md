@@ -437,6 +437,7 @@ cwltool workflows/json2tabular/workflow.cwl inputs_json2tabular.yaml
 
 ```mermaid
 ---
+---
 config:
   theme: base
   look: neo
@@ -467,37 +468,39 @@ flowchart TB
     exp_metadata(exp_metadata)
   end
     json2tabular_exp_metadata(json2tabular_exp_metadata)
-  llm_output_json --> |input_folder|json2tabular_exp_metadata
+  split --> |input_folder|json2tabular_exp_metadata
     json2tabular_exp_metadata_output_folder(llm_output_tabular/exp_metadata)
   json2tabular_exp_metadata_output_folder --> |output_folder|json2tabular_exp_metadata
     json2tabular_genotype(json2tabular_genotype)
-  llm_output_json --> |input_folder|json2tabular_genotype
+  split --> |input_folder|json2tabular_genotype
     json2tabular_genotype_output_folder(llm_output_tabular/genotypes)
   json2tabular_genotype_output_folder --> |output_folder|json2tabular_genotype
     json2tabular_fields(json2tabular_fields)
-  llm_output_json --> |input_folder|json2tabular_fields
+  split --> |input_folder|json2tabular_fields
     json2tabular_fields_output_folder(llm_output_tabular/fields)
   json2tabular_fields_output_folder --> |output_folder|json2tabular_fields
     json2tabular_irrigation(json2tabular_irrigation)
-  llm_output_json --> |input_folder|json2tabular_irrigation
+  split --> |input_folder|json2tabular_irrigation
     json2tabular_irrigation_output_folder(llm_output_tabular/irrigations)
   json2tabular_irrigation_output_folder --> |output_folder|json2tabular_irrigation
     json2tabular_plotdetails(json2tabular_plotdetails)
-  llm_output_json --> |input_folder|json2tabular_plotdetails
+  split --> |input_folder|json2tabular_plotdetails
     json2tabular_plotdetails_output_folder(llm_output_tabular/plot_details)
   json2tabular_plotdetails_output_folder --> |output_folder|json2tabular_plotdetails
     json2tabular_planting(json2tabular_planting)
-  llm_output_json --> |input_folder|json2tabular_planting
+  split --> |input_folder|json2tabular_planting
     json2tabular_planting_output_folder(llm_output_tabular/plantings)
   json2tabular_planting_output_folder --> |output_folder|json2tabular_planting
     json2tabular_fertilizeration_improved(json2tabular_fertilizeration_improved)
-  llm_output_json --> |input_folder|json2tabular_fertilizeration_improved
+  split --> |input_folder|json2tabular_fertilizeration_improved
     json2tabular_fertilizeration_improved_output_folder(llm_output_tabular/fertilizers)
   json2tabular_fertilizeration_improved_output_folder --> |output_folder|json2tabular_fertilizeration_improved
     json2tabular_harvest(json2tabular_harvest)
-  llm_output_json --> |input_folder|json2tabular_harvest
+  split --> |input_folder|json2tabular_harvest
     json2tabular_harvest_output_folder(llm_output_tabular/harvests)
   json2tabular_harvest_output_folder --> |output_folder|json2tabular_harvest
+    split(split)
+  llm_output_json --> |llm_output_json|split
   json2tabular_harvest --> |harvest|harvest
   json2tabular_fertilizeration_improved --> |fertilizers|fertilizers
   json2tabular_planting --> |plantings|plantings
@@ -533,4 +536,5 @@ flowchart TB
   style json2tabular_fertilizeration_improved_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style json2tabular_harvest stroke:#385723,stroke-width:2px;
   style json2tabular_harvest_output_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
+  style split stroke:#385723,stroke-width:2px;
 ```
