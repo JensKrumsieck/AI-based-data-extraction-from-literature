@@ -40,56 +40,70 @@ steps:
 - id: json2tabular_exp_metadata
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/context_metadata_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_exp_metadata.cwl
 - id: json2tabular_genotype
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/genotypes_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_genotype.cwl
 - id: json2tabular_fields
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/fields_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_fields.cwl
 - id: json2tabular_irrigation
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/irrigations_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_irrigation.cwl
 - id: json2tabular_plotdetails
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/plot_details_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_plotdetails.cwl
 - id: json2tabular_planting
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/plantings_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_planting.cwl
 - id: json2tabular_fertilizeration_improved
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/fertilizers_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_fertilizeration_improved.cwl
 - id: json2tabular_harvest
   in:
   - id: input_folder
-    source: llm_output_json
+    source: split/harvests_dir
   out:
   - output_directory
   run: ../json2tabular/json2tabular_harvest.cwl
+- id: split
+  in:
+  - id: llm_output_json
+    source: llm_output_json
+  out:
+  - context_metadata_dir
+  - fertilizers_dir
+  - fields_dir
+  - genotypes_dir
+  - harvests_dir
+  - irrigations_dir
+  - plantings_dir
+  - plot_details_dir
+  run: ../util/split.cwl
