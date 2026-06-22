@@ -26,7 +26,7 @@ inputs:
   type: Directory
   default:
     class: Directory
-    location: ../../eval
+    location: ../../evaluation
   inputBinding:
     prefix: --output_folder
 - id: context_metadata_dir
@@ -87,10 +87,10 @@ inputs:
     prefix: --harvests_dir
 
 outputs:
-- id: eval
+- id: output_directory
   type: Directory
   outputBinding:
-    glob: eval/
+    glob: $(inputs.output_folder)
 
 baseCommand:
 - python3

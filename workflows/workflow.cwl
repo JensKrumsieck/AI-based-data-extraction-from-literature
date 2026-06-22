@@ -21,28 +21,28 @@ steps:
     source: pdf_files
   out:
   - output_directory
-  run: ../generate_training_data_using_marker/marker.cwl
+  run: generate_training_data_using_marker/marker.cwl
 - id: process_paper
   in:
   - id: input_folder
     source: marker/output_directory
   out:
   - output_directory
-  run: ../generate_training_data/process_paper.cwl
+  run: generate_training_data/process_paper.cwl
 - id: generate_icasa_json
   in:
   - id: template_path
     source: icasa_template
   out:
   - icasa_json_outputs
-  run: ../generate_icasa_json/generate_icasa_json.cwl
+  run: generate_icasa_json/generate_icasa_json.cwl
 - id: json_to_xlsx
   in:
   - id: input_folder
     source: generate_icasa_json/icasa_json_outputs
   out:
   - output_directory
-  run: ../generate_manual_data/json_to_xlsx.cwl
+  run: generate_manual_data/json_to_xlsx.cwl
 - id: create_training_data
   in:
   - id: json_folder
@@ -51,7 +51,7 @@ steps:
     source: process_paper/output_directory
   out:
   - output_folder
-  run: ../generate_training_data/create_training_data.cwl
+  run: generate_training_data/create_training_data.cwl
 - id: llm_extract_icasa
   in:
   - id: fields_model
@@ -76,7 +76,7 @@ steps:
     source: openai_api_key
   out:
   - llm_output_json
-  run: ../tune_and_use_llm_model/llm_extract_icasa.cwl
+  run: tune_and_use_llm_model/llm_extract_icasa.cwl
 - id: fine_tune_model
   in:
   - id: training_data
@@ -90,60 +90,60 @@ steps:
   - fertilizers_model_id
   - harvests_model_id
   - plot_details_model_id
-  run: ../tune_and_use_llm_model/fine_tune_model.cwl
+  run: tune_and_use_llm_model/fine_tune_model.cwl
 - id: json2tabular_exp_metadata
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_exp_metadata.cwl
+  run: json2tabular/json2tabular_exp_metadata.cwl
 - id: json2tabular_fertilizeration_improved
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_fertilizeration_improved.cwl
+  run: json2tabular/json2tabular_fertilizeration_improved.cwl
 - id: json2tabular_fields
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_fields.cwl
+  run: json2tabular/json2tabular_fields.cwl
 - id: json2tabular_genotype
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_genotype.cwl
+  run: json2tabular/json2tabular_genotype.cwl
 - id: json2tabular_harvest
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_harvest.cwl
+  run: json2tabular/json2tabular_harvest.cwl
 - id: json2tabular_irrigation
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_irrigation.cwl
+  run: json2tabular/json2tabular_irrigation.cwl
 - id: json2tabular_planting
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_planting.cwl
+  run: json2tabular/json2tabular_planting.cwl
 - id: json2tabular_plotdetails
   in:
   - id: input_folder
     source: llm_extract_icasa/llm_output_json
   out:
   - output_directory
-  run: ../json2tabular/json2tabular_plotdetails.cwl
+  run: json2tabular/json2tabular_plotdetails.cwl
