@@ -24,7 +24,7 @@ inputs:
     prefix: --reference_data
 - id: output_folder
   type: string
-  default: ../../evaluation
+  default: evaluation
   inputBinding:
     prefix: --output_folder
 - id: context_metadata_dir
