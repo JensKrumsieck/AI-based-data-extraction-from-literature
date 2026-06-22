@@ -27,7 +27,7 @@ import os
 import openai
 import argparse
 
-parser = argparse.ArgumentParser("process_paper")
+parser = argparse.ArgumentParser("extract icasa variables")
 parser.add_argument("-i", "--input_folder", help="Step 1 output", required=True)
 parser.add_argument(
     "-o",
