@@ -140,7 +140,7 @@ for item in model_keys:
     )
 
 args = parser.parse_args()
-manual_path = args.reference_data
+manual_path = Path(args.reference_data)
 output_dir = args.output_folder
 model_genotypes_path = args.genotypes_dir
 model_context_metadata_path = args.context_metadata_dir
@@ -169,150 +169,122 @@ model_harvest_path = args.harvests_dir
 
 os.makedirs(output_dir, exist_ok=True)
 
-genotypes = False
-context_metadata = False
-fields = False
-plantings = False
-irrigations = False
-fertilizer = False
-plot_details = False
-harvests = True
-
-if genotypes:
-    output_file = os.path.join(output_dir, "GENOTYPES_comparison.xlsx")
-    sheet_to_read = "GENOTYPES"
-    model_folder = model_genotypes_path
-elif context_metadata:
-    output_file = os.path.join(output_dir, "METADATA_comparison.xlsx")
-    sheet_to_read = "context_metadata"
-    model_folder = model_context_metadata_path
-elif fields:
-    output_file = os.path.join(output_dir, "FIELDS_comparison.xlsx")
-    sheet_to_read = "FIELDS"
-    model_folder = model_fields_path
-elif plantings:
-    output_file = os.path.join(output_dir, "plantings_comparison.xlsx")
-    sheet_to_read = "PLANTINGS"
-    model_folder = model_plantings_path
-elif irrigations:
-    output_file = os.path.join(output_dir, "irrigations_comparison.xlsx")
-    sheet_to_read = "IRRIGATIONS"
-    model_folder = model_irrigations_path
-elif fertilizer:
-    output_file = os.path.join(output_dir, "fertilizer_comparison.xlsx")
-    sheet_to_read = "FERTILIZERS"
-    model_folder = model_fertilizer_path
-elif plot_details:
-    output_file = os.path.join(output_dir, "plot_comparison.xlsx")
-    sheet_to_read = "PLOT_DETAILS"
-    model_folder = model_plot_path
-elif harvests:
-    output_file = os.path.join(output_dir, "harvests_comparison.xlsx")
-    sheet_to_read = "HARVESTS"
-    model_folder = model_harvest_path
-else:
-    print("No mode selected. Set genotypes or fields or context_metadata to True.")
-    sys.exit()
-
-all_results = []
-
-# Create a mapping for model files by prefix for easier lookup
-model_files = {
-    f.split("_")[0]: f for f in os.listdir(model_folder) if f.endswith(".xlsx")
+CATEGORIES = {
+    "genotypes":        ("GENOTYPES_comparison.xlsx",   "GENOTYPES",       model_genotypes_path),
+    "context_metadata": ("METADATA_comparison.xlsx",    "context_metadata", model_context_metadata_path),
+    "fields":           ("FIELDS_comparison.xlsx",      "FIELDS",          model_fields_path),
+    "plantings":        ("PLANTINGS_comparison.xlsx",   "PLANTINGS",       model_plantings_path),
+    "irrigations":      ("IRRIGATIONS_comparison.xlsx", "IRRIGATIONS",     model_irrigations_path),
+    "fertilizers":      ("FERTILIZERS_comparison.xlsx", "FERTILIZERS",     model_fertilizer_path),
+    "plot_details":     ("PLOT_DETAILS_comparison.xlsx","PLOT_DETAILS",     model_plot_path),
+    "harvests":         ("HARVESTS_comparison.xlsx",    "HARVESTS",        model_harvest_path),
 }
-manual_files = [f for f in os.listdir(manual_path) if f.endswith(".xlsx")]
 
+for category, (out_filename, sheet_to_read, model_folder_raw) in CATEGORIES.items():
+    if model_folder_raw is None:
+        print(f"Skipping {category}: no folder provided.")
+        continue
+    output_file = os.path.join(output_dir, out_filename)
+    model_folder = Path(model_folder_raw)
+    
+    print(f"\n=== Processing {category} ===")
+    all_results = []
 
-header_written = False
-manual_df = None
-model_df = None
+    # Create a mapping for model files by prefix for easier lookup
+    model_files = {
+        f.split("_")[0]: f for f in os.listdir(model_folder) if f.endswith(".xlsx")
+    }
+    manual_files = [f for f in os.listdir(manual_path) if f.endswith(".xlsx")]
 
-for f in manual_files:
-    prefix = f.split("_")[0]
+    header_written = False
+    manual_df = None
+    model_df = None
 
-    if prefix in model_files:
-        print(f"Comparing {prefix}...")
-        model_filename = model_files[prefix]
+    for f in manual_files:
+        prefix = f.split(".")[0]
+        if prefix in model_files:
+            print(f"Comparing {prefix}...")
+            model_filename = model_files[prefix]
 
-        try:
-            manual_df = pd.read_excel(manual_path / f, sheet_name=sheet_to_read)
-            model_df = pd.read_excel(model_folder / model_filename)
+            try:
+                manual_df = pd.read_excel(manual_path / f, sheet_name=sheet_to_read)
+                model_df = pd.read_excel(model_folder / model_filename)
 
-            if manual_df is not None and model_df is not None:
-                file_diffs = compare_dataframes(manual_df, model_df, f)
-                if file_diffs:
-                    all_results.extend(file_diffs)
+                if manual_df is not None and model_df is not None:
+                    file_diffs = compare_dataframes(manual_df, model_df, f)
+                    if file_diffs:
+                        all_results.extend(file_diffs)
 
-        except Exception as e:
-            print(f"Error processing {prefix}: {e}")
+            except Exception as e:
+                print(f"Error processing {prefix}: {e}")
 
-    if all_results:
-        final_df = pd.DataFrame(all_results)
+        if all_results:
+            final_df = pd.DataFrame(all_results)
 
-        # Reorder columns to put "Manual File" first
-        cols = ["Manual File"] + [c for c in final_df.columns if c != "Manual File"]
-        final_df = final_df[cols]
+            # Reorder columns to put "Manual File" first
+            cols = ["Manual File"] + [c for c in final_df.columns if c != "Manual File"]
+            final_df = final_df[cols]
 
-        with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
-            final_df.to_excel(writer, index=False, sheet_name="Results")
-            worksheet = writer.sheets["Results"]
+            with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
+                final_df.to_excel(writer, index=False, sheet_name="Results")
+                worksheet = writer.sheets["Results"]
 
-            # Define styles
-            red_f = Font(color="8b0000")
-            yellow_bg = PatternFill(
-                start_color="fff000", end_color="fff000", fill_type="solid"
-            )
-            orange_bg = PatternFill(
-                start_color="ff8f00", end_color="ff8f00", fill_type="solid"
-            )
-            green_bg = PatternFill(
-                start_color="90ee90", end_color="90ee90", fill_type="solid"
-            )
-            blue_bg = PatternFill(
-                start_color="87ceeb", end_color="87ceeb", fill_type="solid"
-            )
-            red_bg = PatternFill(
-                start_color="f08080", end_color="f08080", fill_type="solid"
-            )
+                # Define styles
+                red_f = Font(color="8b0000")
+                yellow_bg = PatternFill(
+                    start_color="fff000", end_color="fff000", fill_type="solid"
+                )
+                orange_bg = PatternFill(
+                    start_color="ff8f00", end_color="ff8f00", fill_type="solid"
+                )
+                green_bg = PatternFill(
+                    start_color="90ee90", end_color="90ee90", fill_type="solid"
+                )
+                blue_bg = PatternFill(
+                    start_color="87ceeb", end_color="87ceeb", fill_type="solid"
+                )
+                red_bg = PatternFill(
+                    start_color="f08080", end_color="f08080", fill_type="solid"
+                )
 
-            # Apply rule: Match "TO CHECK" (must match the string in get_classification)
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"TO CHECK!"'], font=red_f),
-            )
-            # Yellow background for "FN1"
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"FN1"'], fill=yellow_bg),
-            )
+                # Apply rule: Match "TO CHECK" (must match the string in get_classification)
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"TO CHECK!"'], font=red_f),
+                )
+                # Yellow background for "FN1"
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"FN1"'], fill=yellow_bg),
+                )
 
-            # Orange background for "FN2"
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"FN2"'], fill=orange_bg),
-            )
+                # Orange background for "FN2"
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"FN2"'], fill=orange_bg),
+                )
 
-            # RED background for "FP"
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"FP"'], fill=red_bg),
-            )
+                # RED background for "FP"
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"FP"'], fill=red_bg),
+                )
 
-            # BLUE background for "TN"
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"TN"'], fill=blue_bg),
-            )
+                # BLUE background for "TN"
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"TN"'], fill=blue_bg),
+                )
 
-            # GREEN background for "TP"
-            worksheet.conditional_formatting.add(
-                f"A1:Z{len(final_df) + 1}",
-                CellIsRule(operator="equal", formula=['"TP"'], fill=green_bg),
-            )
+                # GREEN background for "TP"
+                worksheet.conditional_formatting.add(
+                    f"A1:Z{len(final_df) + 1}",
+                    CellIsRule(operator="equal", formula=['"TP"'], fill=green_bg),
+                )
 
-        print(f"Processing finished. Results saved to {output_file}")
-    else:
-        print("No results to save.")
+            print(f"Processing finished. Results saved to {output_file}")
+        else:
+            print("No results to save.")
 
 
 print("Processing finished.")
