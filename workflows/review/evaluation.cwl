@@ -23,10 +23,8 @@ inputs:
   inputBinding:
     prefix: --reference_data
 - id: output_folder
-  type: Directory
-  default:
-    class: Directory
-    location: ../../evaluation
+  type: string
+  default: ../../evaluation
   inputBinding:
     prefix: --output_folder
 - id: context_metadata_dir

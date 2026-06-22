@@ -9,8 +9,14 @@ inputs:
   type: File
 - id: openai_api_key
   type: string
+- id: evaluation_folder_name
+  type: string
 
-outputs: []
+outputs:
+- id: evaluation_directory
+  outputSource: evaluation/output_directory
+  type: Directory
+
 requirements:
 - class: SubworkflowFeatureRequirement
 
@@ -147,3 +153,28 @@ steps:
   out:
   - output_directory
   run: json2tabular/json2tabular_plotdetails.cwl
+- id: evaluation
+  in:
+  - id: plot_details_dir
+    source: json2tabular_plotdetails/output_directory
+  - id: plantings_dir
+    source: json2tabular_planting/output_directory
+  - id: irrigations_dir
+    source: json2tabular_irrigation/output_directory
+  - id: harvests_dir
+    source: json2tabular_harvest/output_directory
+  - id: genotypes_dir
+    source: json2tabular_genotype/output_directory
+  - id: fields_dir
+    source: json2tabular_fields/output_directory
+  - id: fertilizers_dir
+    source: json2tabular_fertilizeration_improved/output_directory
+  - id: context_metadata_dir
+    source: json2tabular_exp_metadata/output_directory
+  - id: reference_data
+    source: json_to_xlsx/output_directory
+  - id: output_folder
+    source: evaluation_folder_name
+  out:
+  - output_directory
+  run: review/evaluation.cwl
