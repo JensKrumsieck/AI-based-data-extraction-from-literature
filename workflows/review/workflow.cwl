@@ -20,6 +20,8 @@ inputs:
   type: string
 - id: training_data_folder_name
   type: string
+- id: md_folder
+  type: Directory
 
 outputs:
 - id: evaluation_directory
