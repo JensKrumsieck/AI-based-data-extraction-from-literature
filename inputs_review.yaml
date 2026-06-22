@@ -10,4 +10,6 @@ llm_output_json:
 tabular_folder_name: 05_manual_tabular
 processed_folder_name: 02_final_processed_md
 json_folder_name: 04_manual_json
-
+md_folder:
+  class: Directory
+  location: data/01_paper_to_md

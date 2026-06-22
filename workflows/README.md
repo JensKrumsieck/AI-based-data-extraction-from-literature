@@ -295,6 +295,7 @@ flowchart TB
     llm_output_json(llm_output_json)
     llm_tabular_folder_name(llm_tabular_folder_name)
     training_data_folder_name(training_data_folder_name)
+    md_folder(md_folder)
   end
   subgraph outputs[Workflow Outputs]
     direction TB
@@ -307,8 +308,7 @@ flowchart TB
   end
     process_paper(process_paper)
   processed_folder_name --> |output_folder|process_paper
-    process_paper_input_folder(../../data/01_paper_to_md)
-  process_paper_input_folder --> |input_folder|process_paper
+  md_folder --> |input_folder|process_paper
     generate_icasa_json(generate_icasa_json)
   icasa_template --> |template_path|generate_icasa_json
   json_folder_name --> |json_folder_name|generate_icasa_json
@@ -393,6 +393,7 @@ flowchart TB
   style llm_output_json stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
   style llm_tabular_folder_name stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
   style training_data_folder_name stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
+  style md_folder stroke:#0f9884,fill:#6FC1B5,stroke-width:2px;
   style outputs fill:#EEEEEE,stroke-width:2px;
   style evaluation_directory stroke:#823909,fill:#F8CBAD,stroke-width:2px;
   style training_data stroke:#823909,fill:#F8CBAD,stroke-width:2px;
@@ -401,7 +402,6 @@ flowchart TB
   style manual_tabular stroke:#823909,fill:#F8CBAD,stroke-width:2px;
   style tabular_llm stroke:#823909,fill:#F8CBAD,stroke-width:2px;
   style process_paper stroke:#385723,stroke-width:2px;
-  style process_paper_input_folder font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style generate_icasa_json stroke:#385723,stroke-width:2px;
   style generate_icasa_json_icasa_attributes font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style json_to_xlsx stroke:#385723,stroke-width:2px;
